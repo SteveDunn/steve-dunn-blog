@@ -18,7 +18,6 @@ The change is subtle but useful. It’s a visual aid to the reader that the meth
 
 Consider the following method: it calls three other methods:
 
-```
 public void DoSomething()
  {
     DoFoo();
@@ -26,7 +25,6 @@ public void DoSomething()
     DoBaz();
  }
 
-```
 Which method(s) out of `DoFoo()` `DoBar()` and `DoBaz()` are private?
 
 **You can’t tell without going to** _(or peeking at)_ **the definitions of each of those methods.**
