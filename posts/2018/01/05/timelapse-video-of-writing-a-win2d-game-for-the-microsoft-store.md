@@ -2,7 +2,7 @@
 title: 'Timelapse video of writing a Win2D game for the Microsoft Store'
 date: '2018-01-05T08:44:49+00:00'
 status: publish
-permalink: /index.php/2018/01/05/timelapse-video-of-writing-a-win2d-game-for-the-microsoft-store
+
 author: stevedunn
 excerpt: ''
 type: post
