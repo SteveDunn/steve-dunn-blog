@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 181
-thumbnail: ../../../uploads/2017/08/pacman_318-41063.jpg
+thumbnail: ../../../../uploads/2017/08/pacman_318-41063.jpg
 category:
     - Uncategorised
 tag:
@@ -122,7 +122,7 @@ export abstract class Act {
 
 Here are the different `Act`s:
 
-![](../../../uploads/2017/08/img_59817a57259fd.png)
+![](../../../../uploads/2017/08/img_59817a57259fd.png)
 
 The welcome screen (or the ‘attract screen’ as they call it in arcade circles) is called the `AttractAct`. You can see it being set as the main Act in MainWindow.ts:
 
@@ -147,7 +147,7 @@ The graphics are drawn onto an HTML `Canvas`. A [sprite-sheet](https://gamedevel
 
 It looks like this:
 
-![](../../../uploads/2017/08/img_59821c6b72157.png)
+![](../../../../uploads/2017/08/img_59821c6b72157.png)
 
 It contains all of the graphics in one image. The sprites then reference a particular rectangle of this image and are drawn on the canvas. All sprites derive from `Sprite`:
 
@@ -173,7 +173,7 @@ It contains all of the graphics in one image. The sprites then reference a parti
 }
 ```
 
-![](../../../uploads/2017/08/img_5982194ecbaf4.png)
+![](../../../../uploads/2017/08/img_5982194ecbaf4.png)
 
 Each sprite has the following facets:
 
@@ -280,7 +280,7 @@ I mentioned that the ‘ghost state’ and ‘movement mode’ can differ; an ex
 
 There are a number of types responsible for moving ghosts. They all implement `GhostMover`:
 
-![](../../../uploads/2017/08/img_598222169a77f.png)
+![](../../../../uploads/2017/08/img_598222169a77f.png)
 
 The general logic of a ghost comprises of ‘head to the home corner for `X` seconds, chase pacman for `X` seconds’. The time spent in each phase varies throughout the level. Each level specifies different patterns.
 
@@ -327,5 +327,3 @@ At a glance, there are different speeds for:
 - tunnel speed – ghosts travel slower through tunnels
 
 There’s a rather large array created in `LevelStats` that contains all of these variables for the first 21 levels.
-
-<div class="sfsi_Sicons" style="width: 100%; display: inline-block; vertical-align: middle; text-align:left"><div style="margin:0px 8px 0px 0px; line-height: 24px"><span>Please follow and like us:</span></div><div class="sfsi_socialwpr"><div class="sf_subscrbe" style="text-align:left;float:left;width:64px">[![](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](http://www.specificfeeds.com/widgets/emailSubscribeEncFeed/ZGtRQ2N4YUkxenJ6TjgzTy9FZTZGOVlUampBalh0Tk05THhhblhmbDRkb2xlM3YxSjJmQ2puZlhkODJzNmNaVzFMZUJvY3ovZkJzRldLdHVicHJwamNaaUZ5UXJqOFROOW5PV2pDMzBGZjNLSHo3aloyRTlJdkhJRDdWK0FNT3B8c3VkUm1QVE45WHJ3U0FIZVBnWG9lUUFXWWJvVDdIOXBsL2Q2NlduWE01dz0=/OA==/)</div><div class="sf_fb" style="text-align:left;width:98px"><div action="like" class="fb-like" data-layout="button" data-share="true" href="" send="false" showfaces="false" width="180"></div></div><div class="sf_twiter" style="text-align:left;float:left;width:auto">[](http://twitter.com/share)</div><div class="sf_pinit" style="text-align:left;float:left;line-height: 20px;width:47px">[](https://www.pinterest.com/pin/create/button/?url=&media=&description=)</div><div class="sf_google" style="text-align:left;float:left;max-width:62px;min-width:35px;"><div class="g-plusone" data-annotation="none" data-href="" data-size="large"></div></div></div></div>

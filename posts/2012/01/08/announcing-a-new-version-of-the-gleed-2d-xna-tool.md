@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 31
-thumbnail: ../../../uploads/2012/01/gleed-original_thumb.jpg
+thumbnail: ../../../../uploads/2012/01/gleed-original_thumb.jpg
 category:
     - .net
     - 'c#'
@@ -34,11 +34,11 @@ Most of the changes in the new version are under-the-hood. The biggest change ha
 
 ##### The original tool before being re-written:
 
-[![gleed-original](../../../uploads/2012/01/gleed-original_thumb.jpg "gleed-original")](/wp-content/uploads/2012/01/gleed-original_thumb.jpg)
+[![gleed-original](../../../../uploads/2012/01/gleed-original_thumb.jpg "gleed-original")](/wp-content/uploads/2012/01/gleed-original_thumb.jpg)
 
 ##### and here’s the new version:
 
-##### [![new-annotated](../../../uploads/2012/01/new-annotated_thumb.png "new-annotated")](/wp-content/uploads/2012/01/new-annotated_thumb.png)
+##### [![new-annotated](../../../../uploads/2012/01/new-annotated_thumb.png "new-annotated")](/wp-content/uploads/2012/01/new-annotated_thumb.png)
 
 The main reason for rewriting the tool was that I wanted to add more features to it but found that it wasn’t easy. It wasn’t easy because it was originally written to just handle the basics needed for creating and editing levels.
 
@@ -57,5 +57,3 @@ Here’s a quick video showing how to use the basic shapes and textures:
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px"><div><object height="252" width="448"><param name="movie" value="http://www.youtube.com/v/rFReB6OzYT0?hl=en&hd=1"></param><embed height="252" src="http://www.youtube.com/v/rFReB6OzYT0?hl=en&hd=1" type="application/x-shockwave-flash" width="448"></embed></object></div><div style="width:448px;clear:both;font-size:.8em">Simple behaviours</div></div>The tool is still currently a bit rough. There’s various [bugs](https://github.com/SteveDunn/Gleed2D/issues) that need to be fixed, but none of them stop the tool from doing what it was designed to do. The project is now quick big, so I’m hoping that the community will jump in and add/fix stuff. I’d like to see plug-ins for physics and particle systems.
 
 Feel free to download the source and play around.
-
-<div class="sfsi_Sicons" style="width: 100%; display: inline-block; vertical-align: middle; text-align:left"><div style="margin:0px 8px 0px 0px; line-height: 24px"><span>Please follow and like us:</span></div><div class="sfsi_socialwpr"><div class="sf_subscrbe" style="text-align:left;float:left;width:64px">[![](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](http://www.specificfeeds.com/widgets/emailSubscribeEncFeed/ZGtRQ2N4YUkxenJ6TjgzTy9FZTZGOVlUampBalh0Tk05THhhblhmbDRkb2xlM3YxSjJmQ2puZlhkODJzNmNaVzFMZUJvY3ovZkJzRldLdHVicHJwamNaaUZ5UXJqOFROOW5PV2pDMzBGZjNLSHo3aloyRTlJdkhJRDdWK0FNT3B8c3VkUm1QVE45WHJ3U0FIZVBnWG9lUUFXWWJvVDdIOXBsL2Q2NlduWE01dz0=/OA==/)</div><div class="sf_fb" style="text-align:left;width:98px"><div action="like" class="fb-like" data-layout="button" data-share="true" href="" send="false" showfaces="false" width="180"></div></div><div class="sf_twiter" style="text-align:left;float:left;width:auto">[](http://twitter.com/share)</div><div class="sf_pinit" style="text-align:left;float:left;line-height: 20px;width:47px">[](https://www.pinterest.com/pin/create/button/?url=&media=&description=)</div><div class="sf_google" style="text-align:left;float:left;max-width:62px;min-width:35px;"><div class="g-plusone" data-annotation="none" data-href="" data-size="large"></div></div></div></div>

@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 171
-thumbnail: ../../../uploads/2017/07/pic6.png
+thumbnail: ../../../../uploads/2017/07/pic6.png
 category:
     - Uncategorised
 tag:
@@ -29,13 +29,13 @@ My goals were to learn TypeScript and end up with a game that looked and played 
 
 Here’s some comparison screenshots:
 
-Arcade (Mame)![](../../../uploads/2017/07/pic4.png)
+Arcade (Mame)![](../../../../uploads/2017/07/pic4.png)
 
-TypeScript![](../../../uploads/2017/07/pic3.png)
+TypeScript![](../../../../uploads/2017/07/pic3.png)
 
 Arcade  
-![](../../../uploads/2017/07/pic2.png)TypeScript  
-![](../../../uploads/2017/07/pic1.png)
+![](../../../../uploads/2017/07/pic2.png)TypeScript  
+![](../../../../uploads/2017/07/pic1.png)
 
 Whilst learning the language, I didn’t want the overhead of also learning a game framework, so I chose to use the [HTML canvas](https://www.w3schools.com/graphics/canvas_intro.asp) directly. This worked out well as the canvas is very simple to use.
 
@@ -52,7 +52,7 @@ There’s a [fair bit to PacMan](http://www.gamasutra.com/view/feature/132330/th
 - **Everything has a different speed** and those speeds vary depending on level (and where you are in the level). PacMan travels at a different speed to the ghosts (initially, a very small difference), but later levels the difference increases. PacMan’s speed changes when he’s eating pills, which is barely noticeable unless a ghost is 5 pixels from your rear!
 - **Cornering –** Related to the different speeds of things is the technique of ‘cornering’: PacMan can gain a very slight speed increase over the ghosts by selecting the direction a couple of pixels before the turn:
 
-![](../../../uploads/2017/07/pic5.png)
+![](../../../../uploads/2017/07/pic5.png)
 
 This is very subtle but is critical in later levels; to evade faster ghosts, head to as many corners as possible until the ghost pattern changes (see below) – each corner gives PacMan a couple of pixels advantage of the ghost
 
@@ -70,5 +70,3 @@ I found that the game itself was only half the work. I wanted it to run on as ma
 - **Sound** – not playing on mobile devices until touched
 
 Overall, I think it was a good idea to write a game to learn TypeScript. Aside from the extra tasks involved after finishing writing the game, it was a quick way to learn the language with the added bonus of being able to visualise progress. [Click here to play](http://pacman.backroomsoftware.com/).
-
-<div class="sfsi_Sicons" style="width: 100%; display: inline-block; vertical-align: middle; text-align:left"><div style="margin:0px 8px 0px 0px; line-height: 24px"><span>Please follow and like us:</span></div><div class="sfsi_socialwpr"><div class="sf_subscrbe" style="text-align:left;float:left;width:64px">[![](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](http://www.specificfeeds.com/widgets/emailSubscribeEncFeed/ZGtRQ2N4YUkxenJ6TjgzTy9FZTZGOVlUampBalh0Tk05THhhblhmbDRkb2xlM3YxSjJmQ2puZlhkODJzNmNaVzFMZUJvY3ovZkJzRldLdHVicHJwamNaaUZ5UXJqOFROOW5PV2pDMzBGZjNLSHo3aloyRTlJdkhJRDdWK0FNT3B8c3VkUm1QVE45WHJ3U0FIZVBnWG9lUUFXWWJvVDdIOXBsL2Q2NlduWE01dz0=/OA==/)</div><div class="sf_fb" style="text-align:left;width:98px"><div action="like" class="fb-like" data-layout="button" data-share="true" href="" send="false" showfaces="false" width="180"></div></div><div class="sf_twiter" style="text-align:left;float:left;width:auto">[](http://twitter.com/share)</div><div class="sf_pinit" style="text-align:left;float:left;line-height: 20px;width:47px">[](https://www.pinterest.com/pin/create/button/?url=&media=&description=)</div><div class="sf_google" style="text-align:left;float:left;max-width:62px;min-width:35px;"><div class="g-plusone" data-annotation="none" data-href="" data-size="large"></div></div></div></div>

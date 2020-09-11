@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 49
-thumbnail: ../../../uploads/2009/03/sshot-2_thumb-5B3-5D.png
+thumbnail: ../../../../uploads/2009/03/sshot-2_thumb-5B3-5D.png
 category:
     - Uncategorised
 tag: []
@@ -42,16 +42,14 @@ Doing all this by hand is tedious, but as with most things, [ReSharper](http://w
 
 R# has a couple of features that, when combined, will mean you are fully SA1201 compliant (and, quite possibly well within the [20 seconds compliance window](http://www.entertonement.com/clips/39146/You-have-20-seconds-to-comply)!) Firstly, there is a feature called Code Cleanup:
 
-[![sshot-2](../../../uploads/2009/03/sshot-2_thumb-5B3-5D.png "sshot-2")](/wp-content/uploads/2009/03/sshot-2_thumb-5B3-5D.png)
+[![sshot-2](../../../../uploads/2009/03/sshot-2_thumb-5B3-5D.png "sshot-2")](/wp-content/uploads/2009/03/sshot-2_thumb-5B3-5D.png)
 
 You can get R# to do various things during code clean-up. One of them is Reorder Type Members. R# does a decent job of moving stuff around by default, but it’s not perfect and doesn’t stop all warnings about SA1201. Thankfully, Reorder Type Members is configurable. The interface is straight XML in the R# Options screen. It’d be nice to have a GUI over it, but as yet (in R# 4.1 and [4.5](http://www.jetbrains.net/confluence/display/ReSharper/ReSharper+4.5+Nightly+Builds)), there isn’t one. Thankfully, you can’t bugger things up too much as the XML is validated against an XSD before it’s saved.
 
 I was going through a legacy project recently and wanted a way to automatically reorder things, so I modified the R# XML configuration. To get your environment set-up, [download the new XML configuration](http://stevedunns.googlepages.com/ReSharperReorderTypeMembersConfigura.xml), go to ReSharper/Options and under languages/C# there an entry named **Type Members Layout**.
 
-[![sshot-3](../../../uploads/2009/03/sshot-3_thumb-5B3-5D.png "sshot-3")](/wp-content/uploads/2009/03/sshot-3_thumb-5B3-5D.png)
+[![sshot-3](../../../../uploads/2009/03/sshot-3_thumb-5B3-5D.png "sshot-3")](/wp-content/uploads/2009/03/sshot-3_thumb-5B3-5D.png)
 
 Deselect *Use Default Patterns* check-box and past in the new XML and click OK.
 
 If you want a C# class that contains most of the things that should be reorganised, [download it here](http://stevedunns.googlepages.com/Class1.cs). Mash it up a bit and then run StyleCop on it to ensure no SA1201 errors.
-
-<div class="sfsi_Sicons" style="width: 100%; display: inline-block; vertical-align: middle; text-align:left"><div style="margin:0px 8px 0px 0px; line-height: 24px"><span>Please follow and like us:</span></div><div class="sfsi_socialwpr"><div class="sf_subscrbe" style="text-align:left;float:left;width:64px">[![](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](http://www.specificfeeds.com/widgets/emailSubscribeEncFeed/ZGtRQ2N4YUkxenJ6TjgzTy9FZTZGOVlUampBalh0Tk05THhhblhmbDRkb2xlM3YxSjJmQ2puZlhkODJzNmNaVzFMZUJvY3ovZkJzRldLdHVicHJwamNaaUZ5UXJqOFROOW5PV2pDMzBGZjNLSHo3aloyRTlJdkhJRDdWK0FNT3B8c3VkUm1QVE45WHJ3U0FIZVBnWG9lUUFXWWJvVDdIOXBsL2Q2NlduWE01dz0=/OA==/)</div><div class="sf_fb" style="text-align:left;width:98px"><div action="like" class="fb-like" data-layout="button" data-share="true" href="" send="false" showfaces="false" width="180"></div></div><div class="sf_twiter" style="text-align:left;float:left;width:auto">[](http://twitter.com/share)</div><div class="sf_pinit" style="text-align:left;float:left;line-height: 20px;width:47px">[](https://www.pinterest.com/pin/create/button/?url=&media=&description=)</div><div class="sf_google" style="text-align:left;float:left;max-width:62px;min-width:35px;"><div class="g-plusone" data-annotation="none" data-href="" data-size="large"></div></div></div></div>

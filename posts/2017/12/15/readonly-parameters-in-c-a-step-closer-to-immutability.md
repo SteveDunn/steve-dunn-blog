@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 210
-thumbnail: ../../../uploads/2017/12/notouch.jpg
+thumbnail: ../../../../uploads/2017/12/notouch.jpg
 category:
     - .net
     - 'c#'
@@ -30,7 +30,7 @@ The benefits of immutability are often overlooked especially by those who have o
 
 `const` is great. There’s even been 80’s pop songs written on the virtues of `const`:
 
-![](../../../uploads/2017/12/img_5a3447c6abf31.png)
+![](../../../../uploads/2017/12/img_5a3447c6abf31.png)
 
  The new features in C# 7.2 are losely related to the above. This post describes one of them; `in` parameters
 
@@ -41,7 +41,7 @@ Here’s a method that takes an `in` parameter:
 
 <div class="oembed-gist"><script src="https://gist.github.com/anonymous/8fc7c6769e76e4edd0f1aaf8ac70bb37.js"></script><noscript>View the code on [Gist](https://gist.github.com/anonymous/8fc7c6769e76e4edd0f1aaf8ac70bb37).</noscript></div>It says that the `DoStuffTo `method takes a `Thing `and **cannot modify it**. If you try, you’ll get:
 
-![](../../../uploads/2017/12/img_5a3197d6498aa.png)
+![](../../../../uploads/2017/12/img_5a3197d6498aa.png)
 
 This is fantastic! Immutable parameters; I know that my method is immutable and I know that I don’t want to mutate any parameter.s And now, when I accidentally do, I get a compiler error.
 
@@ -57,11 +57,11 @@ But all is not what it seems. Let’s run the following and see what the output 
 
 <div class="oembed-gist"><script src="https://gist.github.com/anonymous/9cb909a469d5530af058490a87d3405b.js"></script><noscript>View the code on [Gist](https://gist.github.com/anonymous/9cb909a469d5530af058490a87d3405b).</noscript></div>… here’s the output…
 
-![](../../../uploads/2017/12/img_5a343a2d072d8.png)
+![](../../../../uploads/2017/12/img_5a343a2d072d8.png)
 
 We called `Conculate`, which we know mutates the state (by setting `Id `to `42`), but it turns out that a **copy was made** and the `ID `was set **on that copy**.
 
-Here’s an excerpt from the [Microsoft page](https://docs.microsoft.com/en-us/dotnet/csharp/reference-semantics-with-value-types) on reference semantics with value types:![](../../../uploads/2017/12/img_5a3199e3f373f.png)
+Here’s an excerpt from the [Microsoft page](https://docs.microsoft.com/en-us/dotnet/csharp/reference-semantics-with-value-types) on reference semantics with value types:![](../../../../uploads/2017/12/img_5a3199e3f373f.png)
 
 So, it turns out that `readonly` parameters **aren’t as powerful as C++ `const` parameters.** They are, technically, read-only (you can’t mutate them), but they’re not `const` as in C++ `const`.
 
@@ -69,7 +69,7 @@ I also don’t like the fact that you can legally call methods that mutate the i
 
 Perhaps in a future version of C#, we’ll get **`const `**methods…
 
-![](../../../uploads/2017/12/img_5a34415973c7f.png)
+![](../../../../uploads/2017/12/img_5a34415973c7f.png)
 
 But there’s more…
 -----------------
@@ -78,11 +78,11 @@ Even though `readonly` parameters are a step in the right direction, I was disap
 
 Anyway, `in parameters` can be either `struct` or `class`. Here’s what happens when you change `Thing` to be a class rather than a struct; remember the earlier example where the compiler stopped you setting a property? Well, now it lets you do whatever you want:
 
-![](../../../uploads/2017/12/img_5a319bb28deb0.png)
+![](../../../../uploads/2017/12/img_5a319bb28deb0.png)
 
 **Oh the disappointment!**
 
-Here’s another excerpt from the documentation**:**![](../../../uploads/2017/12/img_5a319bd891a2e.png)
+Here’s another excerpt from the documentation**:**![](../../../../uploads/2017/12/img_5a319bd891a2e.png)
 
 ‘*The benefits are minimal*‘. I personally think *minimal* is being generous. I would’ve use the word **Dangerous.** If `Thing` is a `class` rather than a `struct`, then what is passed is a *reference to a reference*. This means that the value that the method is dealing with **can be changed to point to something else at any time**! (*even from outside of that method*)
 
@@ -96,5 +96,3 @@ ReSharper to the rescue?
 ------------------------
 
 I don’t even know if it’s possible, but I’d have liked the compiler to disallow `in` parameters that **aren’t value types**. I’m sure the ReSharper team are working on a new code-inspection to warn when passing `in <span style="text-decoration: underline;">references</span>`.
-
-<div class="sfsi_Sicons" style="width: 100%; display: inline-block; vertical-align: middle; text-align:left"><div style="margin:0px 8px 0px 0px; line-height: 24px"><span>Please follow and like us:</span></div><div class="sfsi_socialwpr"><div class="sf_subscrbe" style="text-align:left;float:left;width:64px">[![](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](http://www.specificfeeds.com/widgets/emailSubscribeEncFeed/ZGtRQ2N4YUkxenJ6TjgzTy9FZTZGOVlUampBalh0Tk05THhhblhmbDRkb2xlM3YxSjJmQ2puZlhkODJzNmNaVzFMZUJvY3ovZkJzRldLdHVicHJwamNaaUZ5UXJqOFROOW5PV2pDMzBGZjNLSHo3aloyRTlJdkhJRDdWK0FNT3B8c3VkUm1QVE45WHJ3U0FIZVBnWG9lUUFXWWJvVDdIOXBsL2Q2NlduWE01dz0=/OA==/)</div><div class="sf_fb" style="text-align:left;width:98px"><div action="like" class="fb-like" data-layout="button" data-share="true" href="" send="false" showfaces="false" width="180"></div></div><div class="sf_twiter" style="text-align:left;float:left;width:auto">[](http://twitter.com/share)</div><div class="sf_pinit" style="text-align:left;float:left;line-height: 20px;width:47px">[](https://www.pinterest.com/pin/create/button/?url=&media=&description=)</div><div class="sf_google" style="text-align:left;float:left;max-width:62px;min-width:35px;"><div class="g-plusone" data-annotation="none" data-href="" data-size="large"></div></div></div></div>
