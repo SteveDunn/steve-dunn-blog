@@ -2,7 +2,6 @@
 title: 'Are your UWP Win2D offscreen bitmaps dull&#8230;?'
 date: '2018-01-11T12:38:20+00:00'
 status: publish
-permalink: /index.php/2018/01/11/are-your-uwp-win2d-offscreen-bitmaps-dull
 author: stevedunn
 excerpt: ''
 type: post
