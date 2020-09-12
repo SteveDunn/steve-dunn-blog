@@ -30,7 +30,7 @@ Maybe it just looks in Program FilesMicrosoft Visual Studio\[whatever version\].
 
 This worked, although it started a new instance of the IDE for every file. To get around that, you need to use the **/Edit** argument. Here’s what it looks like (click to make it bigger):
 
-[![sshot-2](http://lh5.ggpht.com/_bIhihWOyLpw/Sa0VqI_zwYI/AAAAAAAABio/auvddtXA9Oo/sshot-2_thumb%5B4%5D.png?imgmax=800 "sshot-2")](https://lh6.ggpht.com/_bIhihWOyLpw/Sa0VpfS7CrI/AAAAAAAABik/JXo2ssdJd_g/s1600-h/sshot-2%5B6%5D.png)
+[![sshot-2](https://lh5.ggpht.com/_bIhihWOyLpw/Sa0VqI_zwYI/AAAAAAAABio/auvddtXA9Oo/sshot-2_thumb%5B4%5D.png?imgmax=800 "sshot-2")](https://lh6.ggpht.com/_bIhihWOyLpw/Sa0VpfS7CrI/AAAAAAAABik/JXo2ssdJd_g/s1600-h/sshot-2%5B6%5D.png)
 
 > 
 
