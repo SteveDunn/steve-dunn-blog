@@ -2,7 +2,7 @@
 title: 'I Hate ClearCase &#8211; Part I'
 date: '2006-10-30T14:18:00+00:00'
 status: publish
-permalink: /index.php/2006/10/30/i-hate-clearcase-part-i
+permalink: /2006/10/30/i-hate-clearcase-part-i
 author: stevedunn
 excerpt: ''
 type: post

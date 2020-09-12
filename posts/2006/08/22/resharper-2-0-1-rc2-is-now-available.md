@@ -2,7 +2,7 @@
 title: 'Resharper 2.0.1 RC2 is now available.'
 date: '2006-08-22T22:19:00+00:00'
 status: publish
-permalink: /index.php/2006/08/22/resharper-2-0-1-rc2-is-now-available
+permalink: /2006/08/22/resharper-2-0-1-rc2-is-now-available
 author: stevedunn
 excerpt: ''
 type: post

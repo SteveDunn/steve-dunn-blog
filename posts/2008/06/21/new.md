@@ -2,7 +2,7 @@
 title: New!
 date: '2008-06-21T19:58:00+00:00'
 status: publish
-permalink: /index.php/2008/06/21/new
+permalink: /2008/06/21/new
 author: stevedunn
 excerpt: ''
 type: post

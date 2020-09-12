@@ -2,7 +2,7 @@
 title: 'Summon Method'
 date: '2010-04-14T12:54:00+00:00'
 status: publish
-permalink: /index.php/2010/04/14/summon-method
+permalink: /2010/04/14/summon-method
 author: stevedunn
 excerpt: ''
 type: post

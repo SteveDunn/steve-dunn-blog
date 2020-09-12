@@ -2,7 +2,7 @@
 title: 'Framework design lecture avaliable for download'
 date: '2007-06-19T11:58:00+00:00'
 status: publish
-permalink: /index.php/2007/06/19/framework-design-lecture-avaliable-for-download
+permalink: /2007/06/19/framework-design-lecture-avaliable-for-download
 author: stevedunn
 excerpt: ''
 type: post

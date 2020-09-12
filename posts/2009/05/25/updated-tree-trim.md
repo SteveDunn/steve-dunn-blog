@@ -2,7 +2,7 @@
 title: 'Updated: Tree Trim'
 date: '2009-05-25T13:45:00+00:00'
 status: publish
-permalink: /index.php/2009/05/25/updated-tree-trim
+permalink: /2009/05/25/updated-tree-trim
 author: stevedunn
 excerpt: ''
 type: post

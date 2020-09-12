@@ -2,7 +2,7 @@
 title: 'Settling into my XNA Development Environment'
 date: '2006-12-22T12:21:00+00:00'
 status: publish
-permalink: /index.php/2006/12/22/settling-into-my-xna-development-environment
+permalink: /2006/12/22/settling-into-my-xna-development-environment
 author: stevedunn
 excerpt: ''
 type: post

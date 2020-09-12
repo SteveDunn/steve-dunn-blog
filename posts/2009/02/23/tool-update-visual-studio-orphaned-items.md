@@ -2,7 +2,7 @@
 title: 'Tool update: Visual Studio Orphaned Items'
 date: '2009-02-23T12:21:00+00:00'
 status: publish
-permalink: /index.php/2009/02/23/tool-update-visual-studio-orphaned-items
+permalink: /2009/02/23/tool-update-visual-studio-orphaned-items
 author: stevedunn
 excerpt: ''
 type: post

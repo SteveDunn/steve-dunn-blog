@@ -2,7 +2,7 @@
 title: 'Spec#'
 date: '2006-08-16T20:07:00+00:00'
 status: publish
-permalink: /index.php/2006/08/16/spec
+permalink: /2006/08/16/spec
 author: stevedunn
 excerpt: ''
 type: post

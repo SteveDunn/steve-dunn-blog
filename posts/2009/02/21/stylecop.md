@@ -2,7 +2,7 @@
 title: StyleCop
 date: '2009-02-21T14:44:00+00:00'
 status: publish
-permalink: /index.php/2009/02/21/stylecop
+permalink: /2009/02/21/stylecop
 author: stevedunn
 excerpt: ''
 type: post

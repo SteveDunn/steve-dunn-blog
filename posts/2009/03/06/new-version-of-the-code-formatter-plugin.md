@@ -2,7 +2,7 @@
 title: 'New version of the Code Formatter Plugin'
 date: '2009-03-06T08:21:00+00:00'
 status: publish
-permalink: /index.php/2009/03/06/new-version-of-the-code-formatter-plugin
+permalink: /2009/03/06/new-version-of-the-code-formatter-plugin
 author: stevedunn
 excerpt: ''
 type: post

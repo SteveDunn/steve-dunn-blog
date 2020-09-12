@@ -2,7 +2,7 @@
 title: sshot-1_thumb-5B2-5D.png
 date: '2017-06-24T14:25:42+00:00'
 status: publish
-permalink: /index.php/2009/03/03/hiding-your-privates-from-stylecop/sshot-1_thumb-5b2-5d-png
+permalink: /2009/03/03/hiding-your-privates-from-stylecop/sshot-1_thumb-5b2-5d-png
 author: stevedunn
 excerpt: ''
 type: attachment

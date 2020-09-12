@@ -2,7 +2,7 @@
 title: '.NET Memory usage &#8211; A restaurant analogy'
 date: '2006-09-06T20:46:00+00:00'
 status: publish
-permalink: /index.php/2006/09/06/net-memory-usage-a-restaurant-analogy
+permalink: /2006/09/06/net-memory-usage-a-restaurant-analogy
 author: stevedunn
 excerpt: ''
 type: post

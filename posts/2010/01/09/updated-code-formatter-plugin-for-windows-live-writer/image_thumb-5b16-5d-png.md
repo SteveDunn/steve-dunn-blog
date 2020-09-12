@@ -2,7 +2,7 @@
 title: image_thumb-5B16-5D.png
 date: '2017-06-24T14:24:45+00:00'
 status: publish
-permalink: /index.php/2010/01/09/updated-code-formatter-plugin-for-windows-live-writer/image_thumb-5b16-5d-png
+permalink: /2010/01/09/updated-code-formatter-plugin-for-windows-live-writer/image_thumb-5b16-5d-png
 author: stevedunn
 excerpt: ''
 type: attachment

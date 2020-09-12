@@ -2,7 +2,7 @@
 title: 'Email certificate popups'
 date: '2007-02-25T18:48:00+00:00'
 status: publish
-permalink: /index.php/2007/02/25/email-certificate-popups
+permalink: /2007/02/25/email-certificate-popups
 author: stevedunn
 excerpt: ''
 type: post

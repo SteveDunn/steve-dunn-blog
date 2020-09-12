@@ -2,7 +2,7 @@
 title: 'Displaying values in the Visual Studio Debugger'
 date: '2008-10-20T13:51:00+00:00'
 status: publish
-permalink: /index.php/2008/10/20/displaying-values-in-the-visual-studio-debugger
+permalink: /2008/10/20/displaying-values-in-the-visual-studio-debugger
 author: stevedunn
 excerpt: ''
 type: post

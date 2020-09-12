@@ -2,7 +2,7 @@
 title: 'Excluding Items From Code Coverage'
 date: '2008-06-27T20:20:00+00:00'
 status: publish
-permalink: /index.php/2008/06/27/excluding-items-from-code-coverage
+permalink: /2008/06/27/excluding-items-from-code-coverage
 author: stevedunn
 excerpt: ''
 type: post

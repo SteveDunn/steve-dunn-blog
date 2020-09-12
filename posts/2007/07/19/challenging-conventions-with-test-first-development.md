@@ -2,7 +2,7 @@
 title: 'Challenging Conventions with Test First Development'
 date: '2007-07-19T11:13:00+00:00'
 status: publish
-permalink: /index.php/2007/07/19/challenging-conventions-with-test-first-development
+permalink: /2007/07/19/challenging-conventions-with-test-first-development
 author: stevedunn
 excerpt: ''
 type: post

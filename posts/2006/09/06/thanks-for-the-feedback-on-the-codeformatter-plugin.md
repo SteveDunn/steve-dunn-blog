@@ -2,7 +2,7 @@
 title: 'Thanks for the feedback on the CodeFormatter plugin'
 date: '2006-09-06T20:31:00+00:00'
 status: publish
-permalink: /index.php/2006/09/06/thanks-for-the-feedback-on-the-codeformatter-plugin
+permalink: /2006/09/06/thanks-for-the-feedback-on-the-codeformatter-plugin
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: toolbox_thumb6.jpg
 date: '2017-06-24T14:24:39+00:00'
 status: publish
-permalink: /index.php/2010/02/25/a-tool-to-switch-project-files-between-using-visual-studio-2008-and-2010/toolbox_thumb6-jpg
+permalink: /2010/02/25/a-tool-to-switch-project-files-between-using-visual-studio-2008-and-2010/toolbox_thumb6-jpg
 author: stevedunn
 excerpt: ''
 type: attachment

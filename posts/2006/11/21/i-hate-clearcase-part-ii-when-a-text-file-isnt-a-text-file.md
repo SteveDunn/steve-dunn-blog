@@ -2,7 +2,7 @@
 title: 'I Hate ClearCase Part II &#8211; When a text file isn&#8217;t a text file!'
 date: '2006-11-21T11:53:00+00:00'
 status: publish
-permalink: /index.php/2006/11/21/i-hate-clearcase-part-ii-when-a-text-file-isnt-a-text-file
+permalink: /2006/11/21/i-hate-clearcase-part-ii-when-a-text-file-isnt-a-text-file
 author: stevedunn
 excerpt: ''
 type: post

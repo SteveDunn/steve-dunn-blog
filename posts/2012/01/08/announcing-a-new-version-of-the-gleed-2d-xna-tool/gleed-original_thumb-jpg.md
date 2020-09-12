@@ -2,7 +2,7 @@
 title: gleed-original_thumb.jpg
 date: '2017-06-24T14:24:28+00:00'
 status: publish
-permalink: /index.php/2012/01/08/announcing-a-new-version-of-the-gleed-2d-xna-tool/gleed-original_thumb-jpg
+permalink: /2012/01/08/announcing-a-new-version-of-the-gleed-2d-xna-tool/gleed-original_thumb-jpg
 author: stevedunn
 excerpt: ''
 type: attachment

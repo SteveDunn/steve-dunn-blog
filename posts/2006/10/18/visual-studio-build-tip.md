@@ -2,7 +2,7 @@
 title: 'Visual Studio Build Tip'
 date: '2006-10-18T08:18:00+00:00'
 status: publish
-permalink: /index.php/2006/10/18/visual-studio-build-tip
+permalink: /2006/10/18/visual-studio-build-tip
 author: stevedunn
 excerpt: ''
 type: post

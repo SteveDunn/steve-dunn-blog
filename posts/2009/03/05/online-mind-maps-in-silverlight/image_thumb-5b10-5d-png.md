@@ -2,7 +2,7 @@
 title: image_thumb-5B10-5D.png
 date: '2017-06-24T14:25:33+00:00'
 status: publish
-permalink: /index.php/2009/03/05/online-mind-maps-in-silverlight/image_thumb-5b10-5d-png
+permalink: /2009/03/05/online-mind-maps-in-silverlight/image_thumb-5b10-5d-png
 author: stevedunn
 excerpt: ''
 type: attachment

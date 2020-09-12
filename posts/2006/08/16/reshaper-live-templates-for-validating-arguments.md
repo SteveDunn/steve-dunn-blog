@@ -2,7 +2,7 @@
 title: 'Reshaper Live Templates for validating arguments'
 date: '2006-08-16T20:15:00+00:00'
 status: publish
-permalink: /index.php/2006/08/16/reshaper-live-templates-for-validating-arguments
+permalink: /2006/08/16/reshaper-live-templates-for-validating-arguments
 author: stevedunn
 excerpt: ''
 type: post

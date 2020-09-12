@@ -2,7 +2,7 @@
 title: 'Quicker loading of the Visual Studio .NET IDE'
 date: '2006-08-16T19:51:00+00:00'
 status: publish
-permalink: /index.php/2006/08/16/quicker-loading-of-the-visual-studio-net-ide
+permalink: /2006/08/16/quicker-loading-of-the-visual-studio-net-ide
 author: stevedunn
 excerpt: ''
 type: post

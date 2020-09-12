@@ -2,7 +2,7 @@
 title: 'Problems with CSS and themes when using ASP.NET Forms Authentication'
 date: '2009-10-17T20:25:00+00:00'
 status: publish
-permalink: /index.php/2009/10/17/problems-with-css-and-themes-when-using-asp-net-forms-authentication
+permalink: /2009/10/17/problems-with-css-and-themes-when-using-asp-net-forms-authentication
 author: stevedunn
 excerpt: ''
 type: post

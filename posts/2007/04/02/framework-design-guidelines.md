@@ -2,7 +2,7 @@
 title: 'Framework Design Guidelines'
 date: '2007-04-02T15:17:00+00:00'
 status: publish
-permalink: /index.php/2007/04/02/framework-design-guidelines
+permalink: /2007/04/02/framework-design-guidelines
 author: stevedunn
 excerpt: ''
 type: post

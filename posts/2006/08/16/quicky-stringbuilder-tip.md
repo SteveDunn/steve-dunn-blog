@@ -2,7 +2,7 @@
 title: 'Quicky StringBuilder Tip'
 date: '2006-08-16T19:53:00+00:00'
 status: publish
-permalink: /index.php/2006/08/16/quicky-stringbuilder-tip
+permalink: /2006/08/16/quicky-stringbuilder-tip
 author: stevedunn
 excerpt: ''
 type: post

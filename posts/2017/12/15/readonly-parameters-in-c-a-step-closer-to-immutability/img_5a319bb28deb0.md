@@ -2,7 +2,7 @@
 title: img_5a319bb28deb0
 date: '2017-12-13T21:29:22+00:00'
 status: publish
-permalink: /index.php/2017/12/15/readonly-parameters-in-c-a-step-closer-to-immutability/img_5a319bb28deb0
+permalink: /2017/12/15/readonly-parameters-in-c-a-step-closer-to-immutability/img_5a319bb28deb0
 author: stevedunn
 excerpt: ''
 type: attachment

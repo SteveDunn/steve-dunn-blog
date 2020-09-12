@@ -2,7 +2,7 @@
 title: 'Handy .NET Cheat Sheets'
 date: '2007-07-05T11:15:00+00:00'
 status: publish
-permalink: /index.php/2007/07/05/handy-net-cheat-sheets
+permalink: /2007/07/05/handy-net-cheat-sheets
 author: stevedunn
 excerpt: ''
 type: post

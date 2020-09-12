@@ -2,7 +2,7 @@
 title: sshot-3_thumb-5B3-5D.png
 date: '2017-06-24T14:25:39+00:00'
 status: publish
-permalink: /index.php/2009/03/04/halt-this-is-stylecop-you-are-in-violation-of-sa1201/sshot-3_thumb-5b3-5d-png
+permalink: /2009/03/04/halt-this-is-stylecop-you-are-in-violation-of-sa1201/sshot-3_thumb-5b3-5d-png
 author: stevedunn
 excerpt: ''
 type: attachment

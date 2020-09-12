@@ -2,7 +2,7 @@
 title: 'Running unit tests in Visual Studio Express'
 date: '2007-03-19T21:43:00+00:00'
 status: publish
-permalink: /index.php/2007/03/19/running-unit-tests-in-visual-studio-express
+permalink: /2007/03/19/running-unit-tests-in-visual-studio-express
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: hammer-5B5-5D.png
 date: '2017-06-24T14:25:13+00:00'
 status: publish
-permalink: /index.php/2009/04/13/new-tool-treetrim/hammer-5b5-5d-png
+permalink: /2009/04/13/new-tool-treetrim/hammer-5b5-5d-png
 author: stevedunn
 excerpt: ''
 type: attachment

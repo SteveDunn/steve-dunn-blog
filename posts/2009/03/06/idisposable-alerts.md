@@ -2,7 +2,7 @@
 title: 'IDisposable alerts'
 date: '2009-03-06T21:10:00+00:00'
 status: publish
-permalink: /index.php/2009/03/06/idisposable-alerts
+permalink: /2009/03/06/idisposable-alerts
 author: stevedunn
 excerpt: ''
 type: post

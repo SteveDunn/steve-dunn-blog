@@ -2,7 +2,7 @@
 title: new-annotated_thumb.png
 date: '2017-06-24T14:24:31+00:00'
 status: publish
-permalink: /index.php/2012/01/08/announcing-a-new-version-of-the-gleed-2d-xna-tool/new-annotated_thumb-png
+permalink: /2012/01/08/announcing-a-new-version-of-the-gleed-2d-xna-tool/new-annotated_thumb-png
 author: stevedunn
 excerpt: ''
 type: attachment

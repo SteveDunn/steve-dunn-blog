@@ -2,7 +2,7 @@
 title: 'ReSharper 4.5 Beta'
 date: '2009-03-13T22:35:00+00:00'
 status: publish
-permalink: /index.php/2009/03/13/resharper-4-5-beta
+permalink: /2009/03/13/resharper-4-5-beta
 author: stevedunn
 excerpt: ''
 type: post

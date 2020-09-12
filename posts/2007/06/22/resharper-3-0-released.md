@@ -2,7 +2,7 @@
 title: 'ReSharper 3.0 released'
 date: '2007-06-22T10:03:00+00:00'
 status: publish
-permalink: /index.php/2007/06/22/resharper-3-0-released
+permalink: /2007/06/22/resharper-3-0-released
 author: stevedunn
 excerpt: ''
 type: post
