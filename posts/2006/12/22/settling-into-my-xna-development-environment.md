@@ -32,10 +32,10 @@ This worked, with the exception of some command bar stuff that isn’t supported
 
 ### Options screen before import:
 
-[![](http://stevedunns.googlepages.com/VsExpressSettingsBefore.jpg)](http://stevedunns.googlepages.com/VsExpressSettingsBefore.jpg)
+[![](https://stevedunns.googlepages.com/VsExpressSettingsBefore.jpg)](https://stevedunns.googlepages.com/VsExpressSettingsBefore.jpg)
 
 ### Options screen after import:
 
-[![](http://stevedunns.googlepages.com/VsExpressSettingsAfter.jpg)](http://stevedunns.googlepages.com/VsExpressSettingsAfter.jpg)
+[![](https://stevedunns.googlepages.com/VsExpressSettingsAfter.jpg)](https://stevedunns.googlepages.com/VsExpressSettingsAfter.jpg)
 
 Very nice. It’s just a shame that Express doesn’t support plug-ins as I really miss [ReSharper](http://stevedunns.blogspot.com/2006/12/resharper-25-released.html "ReSharper 2.5 Released").

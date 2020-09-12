@@ -69,4 +69,4 @@ public int TabWidth
 }
 ```
 
-</div>[Please feel free to read more and download it.](http://stevedunns.googlepages.com/codeformatterforwindowslivewriter)
+</div>[Please feel free to read more and download it.](https://stevedunns.googlepages.com/codeformatterforwindowslivewriter)

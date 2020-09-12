@@ -46,10 +46,10 @@ R# has a couple of features that, when combined, will mean you are fully SA1201 
 
 You can get R# to do various things during code clean-up. One of them is Reorder Type Members. R# does a decent job of moving stuff around by default, but it’s not perfect and doesn’t stop all warnings about SA1201. Thankfully, Reorder Type Members is configurable. The interface is straight XML in the R# Options screen. It’d be nice to have a GUI over it, but as yet (in R# 4.1 and [4.5](http://www.jetbrains.net/confluence/display/ReSharper/ReSharper+4.5+Nightly+Builds)), there isn’t one. Thankfully, you can’t bugger things up too much as the XML is validated against an XSD before it’s saved.
 
-I was going through a legacy project recently and wanted a way to automatically reorder things, so I modified the R# XML configuration. To get your environment set-up, [download the new XML configuration](http://stevedunns.googlepages.com/ReSharperReorderTypeMembersConfigura.xml), go to ReSharper/Options and under languages/C# there an entry named **Type Members Layout**.
+I was going through a legacy project recently and wanted a way to automatically reorder things, so I modified the R# XML configuration. To get your environment set-up, [download the new XML configuration](https://stevedunns.googlepages.com/ReSharperReorderTypeMembersConfigura.xml), go to ReSharper/Options and under languages/C# there an entry named **Type Members Layout**.
 
 [![sshot-3](../../../../uploads/2009/03/sshot-3_thumb-5B3-5D.png "sshot-3")](/wp-content/uploads/2009/03/sshot-3_thumb-5B3-5D.png)
 
 Deselect *Use Default Patterns* check-box and past in the new XML and click OK.
 
-If you want a C# class that contains most of the things that should be reorganised, [download it here](http://stevedunns.googlepages.com/Class1.cs). Mash it up a bit and then run StyleCop on it to ensure no SA1201 errors.
+If you want a C# class that contains most of the things that should be reorganised, [download it here](https://stevedunns.googlepages.com/Class1.cs). Mash it up a bit and then run StyleCop on it to ensure no SA1201 errors.

@@ -22,4 +22,4 @@ blogger_internal:
 dsq_thread_id:
     - '7012988801'
 ---
-Version 2.0.0.2 of the Code Formatter Plugin can be [downloaded here](http://stevedunns.googlepages.com/codeformatterforwindowslivewriter). This has a fix for when the plugin tried to load configuration from the wrong location on disk.
+Version 2.0.0.2 of the Code Formatter Plugin can be [downloaded here](https://stevedunns.googlepages.com/codeformatterforwindowslivewriter). This has a fix for when the plugin tried to load configuration from the wrong location on disk.

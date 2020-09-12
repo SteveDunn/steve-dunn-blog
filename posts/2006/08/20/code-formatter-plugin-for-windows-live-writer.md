@@ -29,7 +29,7 @@ I’m quite new to blogging and have recently discovered Windows Live Writer. I�
 
 The plugin I implemented formats and highlights code and also does all the above. Here’s a screen shot of it in use:
 
-[![](https://1.bp.blogspot.com/_bIhihWOyLpw/RkYMJf97lWI/AAAAAAAAAAk/hCF-Iu8bOhA/s400/codeFormatterPlugin.png)](http://1.bp.blogspot.com/_bIhihWOyLpw/RkYMJf97lWI/AAAAAAAAAAk/hCF-Iu8bOhA/s1600-h/codeFormatterPlugin.png)
+[![](https://1.bp.blogspot.com/_bIhihWOyLpw/RkYMJf97lWI/AAAAAAAAAAk/hCF-Iu8bOhA/s400/codeFormatterPlugin.png)](https://1.bp.blogspot.com/_bIhihWOyLpw/RkYMJf97lWI/AAAAAAAAAAk/hCF-Iu8bOhA/s1600-h/codeFormatterPlugin.png)
 
 [](http://homepage.ntlworld.com/steve_dunn/blogpics/CodeFormatterPluginforWindowsLiveWriter_14207/image04.png)
 
