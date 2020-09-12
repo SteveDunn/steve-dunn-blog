@@ -35,7 +35,7 @@ As well as a few bug fixes, this release includes the following features:
 
 This plugin adds **four tools** in WLW’s tool window:
 
-[![image](http://lh6.ggpht.com/_bIhihWOyLpw/S0jh3HeF5bI/AAAAAAAABmE/OW94DbGPMW8/image_thumb%5B15%5D.png?imgmax=800 "image")](http://lh4.ggpht.com/_bIhihWOyLpw/S0jh2R2qIwI/AAAAAAAABmA/_XcKx99thbk/s1600-h/image%5B27%5D.png)
+[![image](https://lh6.ggpht.com/_bIhihWOyLpw/S0jh3HeF5bI/AAAAAAAABmE/OW94DbGPMW8/image_thumb%5B15%5D.png?imgmax=800 "image")](http://lh4.ggpht.com/_bIhihWOyLpw/S0jh2R2qIwI/AAAAAAAABmA/_XcKx99thbk/s1600-h/image%5B27%5D.png)
 
 **Tool 1) Code as bitmap**
 
@@ -65,7 +65,7 @@ When inserting code, the plugin window will allow various properties of the code
 
 When clicking edit code, you’ll see the edit source code screen:
 
-[![image](https://lh3.ggpht.com/_bIhihWOyLpw/S0jh89B3KqI/AAAAAAAABnY/qw26NOYDziM/image_thumb%5B18%5D.png?imgmax=800 "image")](http://lh6.ggpht.com/_bIhihWOyLpw/S0jh7_ku-SI/AAAAAAAABnM/jXZX2r-__io/s1600-h/image%5B30%5D.png)
+[![image](https://lh3.ggpht.com/_bIhihWOyLpw/S0jh89B3KqI/AAAAAAAABnY/qw26NOYDziM/image_thumb%5B18%5D.png?imgmax=800 "image")](https://lh6.ggpht.com/_bIhihWOyLpw/S0jh7_ku-SI/AAAAAAAABnM/jXZX2r-__io/s1600-h/image%5B30%5D.png)
 
 **Tool 3) Highlighted code**
 
