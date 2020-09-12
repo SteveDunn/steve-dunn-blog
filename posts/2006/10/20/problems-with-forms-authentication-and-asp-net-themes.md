@@ -60,5 +60,5 @@ It turns out that the URLs specified in the authentication section in web.config
 
 Firefox’s JavaScript Console proved incredibly helpful in finding the problem:
 
-[![](http://2.bp.blogspot.com/_bIhihWOyLpw/RkX8P_97lVI/AAAAAAAAAAc/6DtARTWtex4/s400/formsauth2.png)](http://2.bp.blogspot.com/_bIhihWOyLpw/RkX8P_97lVI/AAAAAAAAAAc/6DtARTWtex4/s1600-h/formsauth2.png)   
+[![](https://2.bp.blogspot.com/_bIhihWOyLpw/RkX8P_97lVI/AAAAAAAAAAc/6DtARTWtex4/s400/formsauth2.png)](https://2.bp.blogspot.com/_bIhihWOyLpw/RkX8P_97lVI/AAAAAAAAAAc/6DtARTWtex4/s1600-h/formsauth2.png)   
 Once I saw this, it all fell into place!

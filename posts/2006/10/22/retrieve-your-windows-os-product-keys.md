@@ -26,7 +26,7 @@ This worked but I was curious how it worked. I read around a little bit and disc
 
 I then modified it a bit and created my own C# WinForm application.
 
-[![](http://2.bp.blogspot.com/_bIhihWOyLpw/RkX7c_97lUI/AAAAAAAAAAU/g_hQBEnxBsI/s400/prodkey2.jpg)](http://2.bp.blogspot.com/_bIhihWOyLpw/RkX7c_97lUI/AAAAAAAAAAU/g_hQBEnxBsI/s1600-h/prodkey2.jpg)
+[![](https://2.bp.blogspot.com/_bIhihWOyLpw/RkX7c_97lUI/AAAAAAAAAAU/g_hQBEnxBsI/s400/prodkey2.jpg)](https://2.bp.blogspot.com/_bIhihWOyLpw/RkX7c_97lUI/AAAAAAAAAAU/g_hQBEnxBsI/s1600-h/prodkey2.jpg)
 
 The application lists the most common product keys (Windows XP and Office) and has a button to search for more keys that look like product ID’s. It searches all keys in HKEY\_LOCAL\_MACHINE.
 
