@@ -2,7 +2,7 @@
 title: 'Hiding your privates from StyleCop'
 date: '2009-03-03T12:55:00+00:00'
 status: publish
-permalink: /2009/03/03/hiding-your-privates-from-stylecop
+
 author: stevedunn
 excerpt: ''
 type: post

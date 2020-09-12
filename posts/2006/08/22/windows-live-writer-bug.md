@@ -2,7 +2,7 @@
 title: 'Windows Live Writer &#8211; Bug'
 date: '2006-08-22T22:07:00+00:00'
 status: publish
-permalink: /2006/08/22/windows-live-writer-bug
+
 author: stevedunn
 excerpt: ''
 type: post

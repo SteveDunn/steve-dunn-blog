@@ -2,7 +2,7 @@
 title: FluentInterface
 date: '2007-01-17T14:03:00+00:00'
 status: publish
-permalink: /2007/01/17/fluentinterface
+
 author: stevedunn
 excerpt: ''
 type: post

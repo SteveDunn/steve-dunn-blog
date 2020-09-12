@@ -2,7 +2,7 @@
 title: 'Google Squared and sexy languages!'
 date: '2009-06-04T07:24:00+00:00'
 status: publish
-permalink: /2009/06/04/google-squared-and-sexy-languages
+
 author: stevedunn
 excerpt: ''
 type: post

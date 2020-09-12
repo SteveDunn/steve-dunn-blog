@@ -2,7 +2,7 @@
 title: 'Pacman Dissected'
 date: '2017-08-03T08:05:18+00:00'
 status: publish
-permalink: /2017/08/03/pacman-dissected
+
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: 'BackgroundWorker &#8211; automating this handy class'
 date: '2006-10-19T07:39:00+00:00'
 status: publish
-permalink: /2006/10/19/backgroundworker-automating-this-handy-class
+
 author: stevedunn
 excerpt: ''
 type: post

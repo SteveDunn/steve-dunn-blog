@@ -2,7 +2,7 @@
 title: image_thumb-5B3-5D.png
 date: '2017-06-24T14:25:26+00:00'
 status: publish
-permalink: /2009/03/06/new-version-of-the-code-formatter-plugin/image_thumb-5b3-5d-png
+
 author: stevedunn
 excerpt: ''
 type: attachment

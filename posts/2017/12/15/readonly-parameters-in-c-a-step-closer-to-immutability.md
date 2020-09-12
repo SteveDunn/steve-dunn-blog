@@ -2,7 +2,7 @@
 title: 'Readonly parameters in C# &#8211; a step closer to immutability'
 date: '2017-12-15T22:14:00+00:00'
 status: publish
-permalink: /2017/12/15/readonly-parameters-in-c-a-step-closer-to-immutability
+
 author: stevedunn
 excerpt: ''
 type: post

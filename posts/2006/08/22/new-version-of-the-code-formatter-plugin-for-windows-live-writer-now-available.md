@@ -2,7 +2,7 @@
 title: 'New version of the Code Formatter plugin for Windows Live Writer now available.'
 date: '2006-08-22T22:14:00+00:00'
 status: publish
-permalink: /2006/08/22/new-version-of-the-code-formatter-plugin-for-windows-live-writer-now-available
+
 author: stevedunn
 excerpt: ''
 type: post

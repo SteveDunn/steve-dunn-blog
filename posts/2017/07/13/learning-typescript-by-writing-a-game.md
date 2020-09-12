@@ -2,7 +2,7 @@
 title: 'Learning TypeScript by Writing a Game'
 date: '2017-07-13T15:10:07+00:00'
 status: publish
-permalink: /2017/07/13/learning-typescript-by-writing-a-game
+
 author: stevedunn
 excerpt: ''
 type: post

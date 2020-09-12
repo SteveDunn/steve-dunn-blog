@@ -2,7 +2,7 @@
 title: pic1
 date: '2017-07-13T14:33:28+00:00'
 status: publish
-permalink: /2017/07/13/learning-typescript-by-writing-a-game/pic1
+
 author: stevedunn
 excerpt: ''
 type: attachment

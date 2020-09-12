@@ -2,7 +2,7 @@
 title: 'FAJAX &#8211; Fake AJAX!'
 date: '2006-11-30T12:09:00+00:00'
 status: publish
-permalink: /2006/11/30/fajax-fake-ajax
+
 author: stevedunn
 excerpt: ''
 type: post

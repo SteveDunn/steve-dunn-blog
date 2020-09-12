@@ -2,7 +2,7 @@
 title: 'New tool: TreeTrim'
 date: '2009-04-13T12:45:00+00:00'
 status: publish
-permalink: /2009/04/13/new-tool-treetrim
+
 author: stevedunn
 excerpt: ''
 type: post

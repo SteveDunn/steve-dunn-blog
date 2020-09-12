@@ -2,7 +2,7 @@
 title: mk_thumb-5B3-5D.jpg
 date: '2017-06-24T14:25:06+00:00'
 status: publish
-permalink: /2009/06/04/google-squared-and-sexy-languages/mk_thumb-5b3-5d-jpg
+
 author: stevedunn
 excerpt: ''
 type: attachment

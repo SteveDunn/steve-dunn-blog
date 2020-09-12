@@ -2,7 +2,7 @@
 title: img_597ece95d1ad1
 date: '2017-07-31T07:30:46+00:00'
 status: publish
-permalink: /2017/08/03/pacman-dissected/img_597ece95d1ad1
+
 author: stevedunn
 excerpt: ''
 type: attachment

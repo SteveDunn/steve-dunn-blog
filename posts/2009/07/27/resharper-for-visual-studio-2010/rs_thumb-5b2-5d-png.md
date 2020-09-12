@@ -2,7 +2,7 @@
 title: rs_thumb-5B2-5D.png
 date: '2017-06-24T14:25:02+00:00'
 status: publish
-permalink: /2009/07/27/resharper-for-visual-studio-2010/rs_thumb-5b2-5d-png
+
 author: stevedunn
 excerpt: ''
 type: attachment

@@ -2,7 +2,7 @@
 title: 'Problems with Forms Authentication and ASP.NET Themes'
 date: '2006-10-20T19:58:00+00:00'
 status: publish
-permalink: /2006/10/20/problems-with-forms-authentication-and-asp-net-themes
+
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: image_thumb13.png
 date: '2017-06-24T14:25:20+00:00'
 status: publish
-permalink: /2009/03/12/update-to-the-code-formatter-plugin/image_thumb13-png
+
 author: stevedunn
 excerpt: ''
 type: attachment

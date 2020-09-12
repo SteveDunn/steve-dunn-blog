@@ -2,7 +2,7 @@
 title: 'Windows Live Writer &#8211; Additions to API'
 date: '2006-08-22T22:01:00+00:00'
 status: publish
-permalink: /2006/08/22/windows-live-writer-additions-to-api
+
 author: stevedunn
 excerpt: ''
 type: post

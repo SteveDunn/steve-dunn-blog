@@ -2,7 +2,7 @@
 title: 'Retrieve your Windows OS Product Keys'
 date: '2006-10-22T09:50:00+00:00'
 status: publish
-permalink: /2006/10/22/retrieve-your-windows-os-product-keys
+
 author: stevedunn
 excerpt: ''
 type: post

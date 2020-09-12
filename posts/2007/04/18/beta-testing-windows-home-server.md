@@ -2,7 +2,7 @@
 title: 'Beta Testing Windows Home Server'
 date: '2007-04-18T21:15:00+00:00'
 status: publish
-permalink: /2007/04/18/beta-testing-windows-home-server
+
 author: stevedunn
 excerpt: ''
 type: post

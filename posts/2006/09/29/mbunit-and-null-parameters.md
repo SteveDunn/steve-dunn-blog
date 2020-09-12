@@ -2,7 +2,7 @@
 title: 'MbUnit and null parameters'
 date: '2006-09-29T12:21:00+00:00'
 status: publish
-permalink: /2006/09/29/mbunit-and-null-parameters
+
 author: stevedunn
 excerpt: ''
 type: post

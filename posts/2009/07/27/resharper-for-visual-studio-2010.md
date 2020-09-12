@@ -2,7 +2,7 @@
 title: 'ReSharper for Visual Studio 2010'
 date: '2009-07-27T20:48:00+00:00'
 status: publish
-permalink: /2009/07/27/resharper-for-visual-studio-2010
+
 author: stevedunn
 excerpt: ''
 type: post

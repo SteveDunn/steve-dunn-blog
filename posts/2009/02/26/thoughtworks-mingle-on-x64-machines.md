@@ -2,7 +2,7 @@
 title: 'ThoughtWork’s Mingle on X64 machines'
 date: '2009-02-26T11:20:00+00:00'
 status: publish
-permalink: /2009/02/26/thoughtworks-mingle-on-x64-machines
+
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: 'In the name of science'
 date: '2006-11-30T13:10:00+00:00'
 status: publish
-permalink: /2006/11/30/in-the-name-of-science
+
 author: stevedunn
 excerpt: ''
 type: post

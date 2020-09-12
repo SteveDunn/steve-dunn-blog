@@ -2,7 +2,7 @@
 title: 'A tool to switch project files between using Visual Studio 2008 and 2010'
 date: '2010-02-25T22:02:00+00:00'
 status: publish
-permalink: /2010/02/25/a-tool-to-switch-project-files-between-using-visual-studio-2008-and-2010
+
 author: stevedunn
 excerpt: ''
 type: post

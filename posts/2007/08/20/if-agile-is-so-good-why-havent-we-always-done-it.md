@@ -2,7 +2,7 @@
 title: 'If Agile is so good, why haven&#8217;t we always done it?'
 date: '2007-08-20T17:25:00+00:00'
 status: publish
-permalink: /2007/08/20/if-agile-is-so-good-why-havent-we-always-done-it
+
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: 'Online mind maps in Silverlight'
 date: '2009-03-05T08:16:00+00:00'
 status: publish
-permalink: /2009/03/05/online-mind-maps-in-silverlight
+
 author: stevedunn
 excerpt: ''
 type: post

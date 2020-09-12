@@ -2,7 +2,7 @@
 title: 'Cassini and assembly loading problems'
 date: '2006-10-24T14:36:00+00:00'
 status: publish
-permalink: /2006/10/24/cassini-and-assembly-loading-problems
+
 author: stevedunn
 excerpt: ''
 type: post

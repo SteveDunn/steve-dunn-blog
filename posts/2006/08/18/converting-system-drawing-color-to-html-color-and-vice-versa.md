@@ -2,7 +2,7 @@
 title: 'Converting System.Drawing.Color to HTML color (and vice-versa)'
 date: '2006-08-18T22:35:00+00:00'
 status: publish
-permalink: /2006/08/18/converting-system-drawing-color-to-html-color-and-vice-versa
+
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: 'A fast way of converting C# enums to strings–and back again.'
 date: '2011-08-17T22:45:00+00:00'
 status: publish
-permalink: /2011/08/17/a-fast-way-of-converting-c-enums-to-strings-and-back-again
+
 author: stevedunn
 excerpt: ''
 type: post

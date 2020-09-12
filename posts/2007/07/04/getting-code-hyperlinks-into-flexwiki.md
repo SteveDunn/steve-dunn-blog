@@ -2,7 +2,7 @@
 title: 'Getting &#8216;code://&#8217; hyperlinks into FlexWiki'
 date: '2007-07-04T18:02:00+00:00'
 status: publish
-permalink: /2007/07/04/getting-code-hyperlinks-into-flexwiki
+
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: 'Stand-up send-up'
 date: '2008-11-28T16:19:00+00:00'
 status: publish
-permalink: /2008/11/28/stand-up-send-up
+
 author: stevedunn
 excerpt: ''
 type: post

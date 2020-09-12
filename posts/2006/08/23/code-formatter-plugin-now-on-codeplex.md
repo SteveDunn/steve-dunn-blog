@@ -2,7 +2,7 @@
 title: 'Code Formatter Plugin now on Codeplex'
 date: '2006-08-23T22:34:00+00:00'
 status: publish
-permalink: /2006/08/23/code-formatter-plugin-now-on-codeplex
+
 author: stevedunn
 excerpt: ''
 type: post

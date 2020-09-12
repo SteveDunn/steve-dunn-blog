@@ -2,7 +2,7 @@
 title: limbo_thumb-5B1-5D.jpg
 date: '2017-06-24T14:25:08+00:00'
 status: publish
-permalink: /2009/06/04/google-squared-and-sexy-languages/limbo_thumb-5b1-5d-jpg
+
 author: stevedunn
 excerpt: ''
 type: attachment

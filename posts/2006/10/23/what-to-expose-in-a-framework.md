@@ -2,7 +2,7 @@
 title: 'What to expose in a framework'
 date: '2006-10-23T16:27:00+00:00'
 status: publish
-permalink: /2006/10/23/what-to-expose-in-a-framework
+
 author: stevedunn
 excerpt: ''
 type: post

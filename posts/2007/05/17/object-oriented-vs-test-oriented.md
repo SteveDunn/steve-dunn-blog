@@ -2,7 +2,7 @@
 title: 'Object Oriented vs Test Oriented'
 date: '2007-05-17T15:25:00+00:00'
 status: publish
-permalink: /2007/05/17/object-oriented-vs-test-oriented
+
 author: stevedunn
 excerpt: ''
 type: post

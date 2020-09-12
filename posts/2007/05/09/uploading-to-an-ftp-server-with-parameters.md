@@ -2,7 +2,7 @@
 title: 'Uploading to an FTP server with parameters'
 date: '2007-05-09T17:26:00+00:00'
 status: publish
-permalink: /2007/05/09/uploading-to-an-ftp-server-with-parameters
+
 author: stevedunn
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: 'ReSharper Live Templates for validating parameters of public C# methods.'
 date: '2006-10-04T07:21:00+00:00'
 status: publish
-permalink: /2006/10/04/resharper-live-templates-for-validating-parameters-of-public-c-methods
+
 author: stevedunn
 excerpt: ''
 type: post

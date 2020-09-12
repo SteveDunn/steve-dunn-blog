@@ -2,7 +2,7 @@
 title: notouch
 date: '2017-12-15T22:12:31+00:00'
 status: publish
-permalink: /2017/12/15/readonly-parameters-in-c-a-step-closer-to-immutability/notouch
+
 author: stevedunn
 excerpt: ''
 type: attachment

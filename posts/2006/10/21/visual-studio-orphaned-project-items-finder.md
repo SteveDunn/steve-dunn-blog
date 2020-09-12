@@ -2,7 +2,7 @@
 title: 'Visual Studio Orphaned Project Items Finder'
 date: '2006-10-21T22:32:00+00:00'
 status: publish
-permalink: /2006/10/21/visual-studio-orphaned-project-items-finder
+
 author: stevedunn
 excerpt: ''
 type: post

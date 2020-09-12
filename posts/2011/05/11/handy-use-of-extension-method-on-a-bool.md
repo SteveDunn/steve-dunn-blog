@@ -2,7 +2,7 @@
 title: 'Handy use of extension method on a bool'
 date: '2011-05-11T20:41:00+00:00'
 status: publish
-permalink: /2011/05/11/handy-use-of-extension-method-on-a-bool
+
 author: stevedunn
 excerpt: ''
 type: post

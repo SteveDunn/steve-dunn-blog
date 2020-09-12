@@ -2,7 +2,7 @@
 title: 'Problems adding an XBox 360 Media Center Extender'
 date: '2009-02-24T22:53:00+00:00'
 status: publish
-permalink: /2009/02/24/problems-adding-an-xbox-360-media-center-extender
+
 author: stevedunn
 excerpt: ''
 type: post

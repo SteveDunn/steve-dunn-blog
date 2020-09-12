@@ -2,7 +2,7 @@
 title: 'ReSharper 2.0.1 Maintenance Release Now Available'
 date: '2006-08-25T23:15:00+00:00'
 status: publish
-permalink: /2006/08/25/resharper-2-0-1-maintenance-release-now-available
+
 author: stevedunn
 excerpt: ''
 type: post

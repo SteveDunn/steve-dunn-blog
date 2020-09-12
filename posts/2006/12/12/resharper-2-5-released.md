@@ -2,7 +2,7 @@
 title: 'ReSharper 2.5 Released'
 date: '2006-12-12T12:00:00+00:00'
 status: publish
-permalink: /2006/12/12/resharper-2-5-released
+
 author: stevedunn
 excerpt: ''
 type: post
