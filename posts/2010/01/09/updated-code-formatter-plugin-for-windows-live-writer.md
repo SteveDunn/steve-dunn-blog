@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 37
-thumbnail: ../../../../uploads/2010/01/image_thumb-5B15-5D.png
+thumbnail: /img/imported_from_wp/2010/01/image_thumb-5B15-5D.png
 category:
     - open-source
     - tool

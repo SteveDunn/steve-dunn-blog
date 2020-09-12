@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 36
-thumbnail: ../../../../uploads/2010/02/toolbox_thumb6.jpg
+thumbnail: /img/imported_from_wp/2010/02/toolbox_thumb6.jpg
 category:
     - tool
     - 'visual studio'

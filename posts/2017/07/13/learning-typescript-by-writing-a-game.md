@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 171
-thumbnail: ../../../../uploads/2017/07/pic6.png
+thumbnail: /img/imported_from_wp/2017/07/pic6.png
 category:
     - Uncategorised
 tag:
@@ -29,13 +29,13 @@ My goals were to learn TypeScript and end up with a game that looked and played 
 
 Here’s some comparison screenshots:
 
-Arcade (Mame)![](../../../../uploads/2017/07/pic4.png)
+Arcade (Mame)![](/img/imported_from_wp/2017/07/pic4.png)
 
-TypeScript![](../../../../uploads/2017/07/pic3.png)
+TypeScript![](/img/imported_from_wp/2017/07/pic3.png)
 
 Arcade  
-![](../../../../uploads/2017/07/pic2.png)TypeScript  
-![](../../../../uploads/2017/07/pic1.png)
+![](/img/imported_from_wp/2017/07/pic2.png)TypeScript  
+![](/img/imported_from_wp/2017/07/pic1.png)
 
 Whilst learning the language, I didn’t want the overhead of also learning a game framework, so I chose to use the [HTML canvas](https://www.w3schools.com/graphics/canvas_intro.asp) directly. This worked out well as the canvas is very simple to use.
 
@@ -52,7 +52,7 @@ There’s a [fair bit to PacMan](http://www.gamasutra.com/view/feature/132330/th
 - **Everything has a different speed** and those speeds vary depending on level (and where you are in the level). PacMan travels at a different speed to the ghosts (initially, a very small difference), but later levels the difference increases. PacMan’s speed changes when he’s eating pills, which is barely noticeable unless a ghost is 5 pixels from your rear!
 - **Cornering –** Related to the different speeds of things is the technique of ‘cornering’: PacMan can gain a very slight speed increase over the ghosts by selecting the direction a couple of pixels before the turn:
 
-![](../../../../uploads/2017/07/pic5.png)
+![](/img/imported_from_wp/2017/07/pic5.png)
 
 This is very subtle but is critical in later levels; to evade faster ghosts, head to as many corners as possible until the ghost pattern changes (see below) – each corner gives PacMan a couple of pixels advantage of the ghost
 

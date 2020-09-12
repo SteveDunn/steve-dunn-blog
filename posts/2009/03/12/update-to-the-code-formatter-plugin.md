@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 45
-thumbnail: ../../../../uploads/2009/03/image_thumb-5B2-5D.png
+thumbnail: /img/imported_from_wp/2009/03/image_thumb-5B2-5D.png
 category:
     - Uncategorised
 tag: []
@@ -29,12 +29,12 @@ New in this version:
 
 1. Enhanced support for [Syntax Highlighter 2x](http://alexgorbatchev.com/wiki/SyntaxHighlighter)   
   You can now specify things such as [tab size](http://alexgorbatchev.com/wiki/SyntaxHighlighter:Demo:tab-size), [show ruler](http://alexgorbatchev.com/wiki/SyntaxHighlighter:Demo:ruler), [collapse](http://alexgorbatchev.com/wiki/SyntaxHighlighter:Demo:collapse), [show toolbar](http://alexgorbatchev.com/wiki/SyntaxHighlighter:Demo:toolbar), [show line numbers](http://alexgorbatchev.com/wiki/SyntaxHighlighter:Demo:gutter), [starting line number](http://alexgorbatchev.com/wiki/SyntaxHighlighter:Demo:first-line), and [highlighting specific line numbers](http://alexgorbatchev.com/wiki/SyntaxHighlighter:Demo:highlight).   
-  [![image](../../../../uploads/2009/03/image_thumb-5B2-5D.png "image")](/wp-content/uploads/2009/03/image_thumb-5B2-5D.png)
+  [![image](/img/imported_from_wp/2009/03/image_thumb-5B2-5D.png "image")](/wp-content/uploads/2009/03/image_thumb-5B2-5D.png)
 2. Configuration screens for the different providers   
-  [![image](../../../../uploads/2009/03/image_thumb13.png "image")](/wp-content/uploads/2009/03/image_thumb13.png)   
+  [![image](/img/imported_from_wp/2009/03/image_thumb13.png "image")](/wp-content/uploads/2009/03/image_thumb13.png)   
   You can now add and remove languages and generally configure each provider. You can also edit the files manually – they are called SyntaxHightlighter2xConfiguration.xml and ActiProConfiguration.xml. They are located in the Plugins folder.
 3. Preview window for Syntax Highlighter formatted code.   
-  [![image](../../../../uploads/2009/03/image_thumb14.png "image")](/wp-content/uploads/2009/03/image_thumb14.png)   
+  [![image](/img/imported_from_wp/2009/03/image_thumb14.png "image")](/wp-content/uploads/2009/03/image_thumb14.png)   
   This was added because the Preview tab in Windows Live Writer doesn’t include the scripts and styles used in your blog engine’s templates and hence previewing Syntax Highlighted code means it looks plain. Click the Show Preview button to see this window.
 
 [Code Formatter Plugin home-page](https://stevedunns.googlepages.com/codeformatterforwindowslivewriter)   

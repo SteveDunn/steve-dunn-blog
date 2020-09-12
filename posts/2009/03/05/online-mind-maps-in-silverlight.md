@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 48
-thumbnail: ../../../../uploads/2009/03/image_thumb-5B3-5D-1.png
+thumbnail: /img/imported_from_wp/2009/03/image_thumb-5B3-5D-1.png
 category:
     - Uncategorised
 tag: []
@@ -31,10 +31,10 @@ There’s also a desktop version. It has none of the above keyboard problems. It
 
 **<u>DropMind</u>**
 
-[![image](../../../../uploads/2009/03/image_thumb-5B3-5D-1.png "image")](/wp-content/uploads/2009/03/image_thumb-5B3-5D-1.png)
+[![image](/img/imported_from_wp/2009/03/image_thumb-5B3-5D-1.png "image")](/wp-content/uploads/2009/03/image_thumb-5B3-5D-1.png)
 
 **<u>MindManager</u>**
 
-[![image](../../../../uploads/2009/03/image_thumb-5B10-5D.png "image")](/wp-content/uploads/2009/03/image_thumb-5B10-5D.png)
+[![image](/img/imported_from_wp/2009/03/image_thumb-5B10-5D.png "image")](/wp-content/uploads/2009/03/image_thumb-5B10-5D.png)
 
 It’s nice to see Silverlight apps like this. I’d probably switch to it once all the glitches are resolved. MindManager’s great, but it comes with a lot of fluff I don’t need, like Office integration and RSS features.

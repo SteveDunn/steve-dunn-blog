@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 43
-thumbnail: ../../../../uploads/2009/04/hammer-5B5-5D.png
+thumbnail: /img/imported_from_wp/2009/04/hammer-5B5-5D.png
 category:
     - Uncategorised
 tag: []
@@ -23,7 +23,7 @@ blogger_internal:
 dsq_thread_id:
     - '7003554259'
 ---
-![hammer](../../../../uploads/2009/04/hammer-5B5-5D.png "hammer") I’ve recently been working on a [tool](http://code.google.com/p/treetrim/) based on [Jeff Atwoods](http://www.codinghorror.com/blog/) [Clean Sources Plus](http://www.codinghorror.com/blog/archives/000368.html).
+![hammer](/img/imported_from_wp/2009/04/hammer-5B5-5D.png "hammer") I’ve recently been working on a [tool](http://code.google.com/p/treetrim/) based on [Jeff Atwoods](http://www.codinghorror.com/blog/) [Clean Sources Plus](http://www.codinghorror.com/blog/archives/000368.html).
 
 It’s called **TreeTrim**. It’s a tool that strips out debug files and folders in your source code tree and also zips and emails amongst other things.
 

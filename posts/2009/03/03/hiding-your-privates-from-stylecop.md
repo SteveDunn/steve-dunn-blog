@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 50
-thumbnail: ../../../../uploads/2009/03/sshot-1_thumb-5B2-5D.png
+thumbnail: /img/imported_from_wp/2009/03/sshot-1_thumb-5B2-5D.png
 category:
     - Uncategorised
 tag: []

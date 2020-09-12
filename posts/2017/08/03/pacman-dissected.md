@@ -7,7 +7,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 181
-thumbnail: ../../../../uploads/2017/08/pacman_318-41063.jpg
+thumbnail: /img/imported_from_wp/2017/08/pacman_318-41063.jpg
 category:
     - Uncategorised
 tag:
@@ -122,7 +122,7 @@ export abstract class Act {
 
 Here are the different `Act`s:
 
-![](../../../../uploads/2017/08/img_59817a57259fd.png)
+![](/img/imported_from_wp/2017/08/img_59817a57259fd.png)
 
 The welcome screen (or the ‘attract screen’ as they call it in arcade circles) is called the `AttractAct`. You can see it being set as the main Act in MainWindow.ts:
 
@@ -147,7 +147,7 @@ The graphics are drawn onto an HTML `Canvas`. A [sprite-sheet](https://gamedevel
 
 It looks like this:
 
-![](../../../../uploads/2017/08/img_59821c6b72157.png)
+![](/img/imported_from_wp/2017/08/img_59821c6b72157.png)
 
 It contains all of the graphics in one image. The sprites then reference a particular rectangle of this image and are drawn on the canvas. All sprites derive from `Sprite`:
 
@@ -173,7 +173,7 @@ It contains all of the graphics in one image. The sprites then reference a parti
 }
 ```
 
-![](../../../../uploads/2017/08/img_5982194ecbaf4.png)
+![](/img/imported_from_wp/2017/08/img_5982194ecbaf4.png)
 
 Each sprite has the following facets:
 
@@ -280,7 +280,7 @@ I mentioned that the ‘ghost state’ and ‘movement mode’ can differ; an ex
 
 There are a number of types responsible for moving ghosts. They all implement `GhostMover`:
 
-![](../../../../uploads/2017/08/img_598222169a77f.png)
+![](/img/imported_from_wp/2017/08/img_598222169a77f.png)
 
 The general logic of a ghost comprises of ‘head to the home corner for `X` seconds, chase pacman for `X` seconds’. The time spent in each phase varies throughout the level. Each level specifies different patterns.
 
