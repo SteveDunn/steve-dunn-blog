@@ -6,7 +6,7 @@ author: stevedunn
 excerpt: ''
 type: post
 id: 224
-thumbnail: ../../../imported_images_from_wp/2018/01/featured.png
+thumbnail: /img/imported_from_wp/2018/01/featured.png
 category:
     - .net
     - 'c#'
@@ -31,15 +31,15 @@ So, I set about converting Pac-Man that I’d [written in TypeScript](http://blo
 
 Here’s the opening screen – note the text looks naff and the sprites have lost their *intentionally pixelly look*:
 
-![](../../../imported_images_from_wp/2018/01/img_5a5745dc080c3.png)
+![](/img/imported_from_wp/2018/01/img_5a5745dc080c3.png)
 
 … compared to the TypeScript version:
 
-![](../../../imported_images_from_wp/2018/01/img_5a5746907b556.png)
+![](/img/imported_from_wp/2018/01/img_5a5746907b556.png)
 
 I spent quite some time trying to fix this – thinking it was some nuance of Win2D and offscreen bitmaps. I didn’t get anywhere, so I set out to create a small reproducible project that I could use in a StackOverflow question (*as an aside, I often find that just typing a StackOverflow question creates enough clarity of the problem that the answer just magically appears – as was the case here!*). So with just a few lines of code, I had this monstrosity:
 
-![](../../../imported_images_from_wp/2018/01/img_5a5748a873172.png)
+![](/img/imported_from_wp/2018/01/img_5a5748a873172.png)
 
 Here’s the relevant bit of the drawing code:
 
@@ -61,6 +61,6 @@ Here’s the corrected code:
 
 <div class="oembed-gist"><script src="https://gist.github.com/SteveDunn/5247b41cad036cb05885d5a3df0f5f49.js"></script><noscript>View the code on [Gist](https://gist.github.com/SteveDunn/5247b41cad036cb05885d5a3df0f5f49).</noscript></div>… which produces this beautiful output:
 
-![](../../../imported_images_from_wp/2018/01/img_5a575c851b064.png)
+![](/img/imported_from_wp/2018/01/img_5a575c851b064.png)
 
 Once common sense prevailed, I discarded the StackOverflow question, but put up this post for anyone who might see similar issues in their Win2D app.
