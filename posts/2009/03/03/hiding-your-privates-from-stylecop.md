@@ -29,6 +29,6 @@ Apparently there is. [Jason Allor](http://blogs.msdn.com/sourceanalysis/) kindly
 
 I took a look and initially didn’t find it. I didn’t find it because I assumed there’d be different rules for public and private entities. But there’s not, you can decide at the *rule type* level:
 
-[![sshot-1](http://lh3.ggpht.com/_bIhihWOyLpw/Sa0axMcd97I/AAAAAAAABiw/VsPPv7fowpo/sshot-1_thumb%5B2%5D.png?imgmax=800 "sshot-1")](http://lh6.ggpht.com/_bIhihWOyLpw/Sa0awff7anI/AAAAAAAABis/YyDDOL41w8c/s1600-h/sshot-1%5B4%5D.png)
+[![sshot-1](https://lh3.ggpht.com/_bIhihWOyLpw/Sa0axMcd97I/AAAAAAAABiw/VsPPv7fowpo/sshot-1_thumb%5B2%5D.png?imgmax=800 "sshot-1")](http://lh6.ggpht.com/_bIhihWOyLpw/Sa0awff7anI/AAAAAAAABis/YyDDOL41w8c/s1600-h/sshot-1%5B4%5D.png)
 
 It’d be nice to have separate rules for public and private. Currently, I’ve turned off **all** Documentation rules because I don’t like being warned that I haven’t commented private methods. However, I’d still like it to give me all the other great warnings if I do decide to comment a particular private method.

@@ -8,7 +8,7 @@ excerpt: ''
 type: attachment
 id: 133
 blogger_permalink:
-    - 'http://lh3.ggpht.com/_bIhihWOyLpw/SeMlymEVDRI/AAAAAAAABk0/y3YJB9wNtnA/hammer%5B5%5D.png'
+    - 'https://lh3.ggpht.com/_bIhihWOyLpw/SeMlymEVDRI/AAAAAAAABk0/y3YJB9wNtnA/hammer%5B5%5D.png'
 blogger_blog:
     - stevedunns.blogspot.com
 blogger_author:

@@ -65,12 +65,12 @@ When inserting code, the plugin window will allow various properties of the code
 
 When clicking edit code, you’ll see the edit source code screen:
 
-[![image](http://lh3.ggpht.com/_bIhihWOyLpw/S0jh89B3KqI/AAAAAAAABnY/qw26NOYDziM/image_thumb%5B18%5D.png?imgmax=800 "image")](http://lh6.ggpht.com/_bIhihWOyLpw/S0jh7_ku-SI/AAAAAAAABnM/jXZX2r-__io/s1600-h/image%5B30%5D.png)
+[![image](https://lh3.ggpht.com/_bIhihWOyLpw/S0jh89B3KqI/AAAAAAAABnY/qw26NOYDziM/image_thumb%5B18%5D.png?imgmax=800 "image")](http://lh6.ggpht.com/_bIhihWOyLpw/S0jh7_ku-SI/AAAAAAAABnM/jXZX2r-__io/s1600-h/image%5B30%5D.png)
 
 **Tool 3) Highlighted code**
 
 This uses the Syntax Highlighter formatting engine. When inserting code, the edit screen will appear in the same way as when you insert formatted code (see above). The only difference is a ‘show preview’ button, which displays this preview window:  
-[![image](http://lh3.ggpht.com/_bIhihWOyLpw/S0jh-mAsSdI/AAAAAAAABno/S9v-5czRCxs/image_thumb%5B19%5D.png?imgmax=800 "image")](http://lh3.ggpht.com/_bIhihWOyLpw/S0jh98LDvoI/AAAAAAAABng/bEGSH3JLB3U/s1600-h/image%5B31%5D.png)
+[![image](https://lh3.ggpht.com/_bIhihWOyLpw/S0jh-mAsSdI/AAAAAAAABno/S9v-5czRCxs/image_thumb%5B19%5D.png?imgmax=800 "image")](https://lh3.ggpht.com/_bIhihWOyLpw/S0jh98LDvoI/AAAAAAAABng/bEGSH3JLB3U/s1600-h/image%5B31%5D.png)
 
 To use the SyntaxHighlighter engine, ensure your blog is correctly set-up. For the preview window to correctly display your code, ensure the Settings are correct. Here’s the Settings window:  
 [![image](http://lh4.ggpht.com/_bIhihWOyLpw/S0jiAlLtuPI/AAAAAAAABn4/tLG6HLaj7aA/image_thumb%5B20%5D.png?imgmax=800 "image")](http://lh4.ggpht.com/_bIhihWOyLpw/S0jh_nC5lVI/AAAAAAAABnw/6G2mf8mVyLs/s1600-h/image%5B32%5D.png)
