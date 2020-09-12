@@ -26,4 +26,4 @@ dsq_thread_id:
 
 A while back I did a small simple tool to find files on disk that were once part of a Visual Studio project but are now orphaned (removed from the project but still on disk and in your source repository). I’ve just updated it to find obsolete files from Visual Studio 2008 projects. You can download the app or the installer, or the source (or all of them!). The installer adds a right-click context menu action for .csproj files in Windows Explorer.
 
-Available [here](https://stevedunns.googlepages.com/vsorphaneditemsfinder).
+Available [here](https://sites.google.com/site/stevedunns/vsorphaneditemsfinder).

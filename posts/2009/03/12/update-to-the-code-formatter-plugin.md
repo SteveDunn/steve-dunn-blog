@@ -23,7 +23,7 @@ blogger_internal:
 dsq_thread_id:
     - '7241854336'
 ---
-Version 2.0.0.1 of the [Code Formatter Plugin](https://stevedunns.googlepages.com/codeformatterforwindowslivewriter) is now available.
+Version 2.0.0.1 of the [Code Formatter Plugin](https://sites.google.com/site/stevedunns/codeformatterforwindowslivewriter) is now available.
 
 New in this version:
 
@@ -37,5 +37,5 @@ New in this version:
   [![image](/img/imported_from_wp/2009/03/image_thumb14.png "image")](/wp-content/uploads/2009/03/image_thumb14.png)   
   This was added because the Preview tab in Windows Live Writer doesn’t include the scripts and styles used in your blog engine’s templates and hence previewing Syntax Highlighted code means it looks plain. Click the Show Preview button to see this window.
 
-[Code Formatter Plugin home-page](https://stevedunns.googlepages.com/codeformatterforwindowslivewriter)   
-[Direct download link](https://stevedunns.googlepages.com/CodeFormatterPlugin2.0.0.1.zip)
+[Code Formatter Plugin home-page](https://sites.google.com/site/stevedunns/codeformatterforwindowslivewriter)   
+[Direct download link](https://sites.google.com/site/stevedunns/CodeFormatterPlugin2.0.0.1.zip)
