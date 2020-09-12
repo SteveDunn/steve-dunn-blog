@@ -22,7 +22,7 @@ console.log('Test');
 ```
 
 ## here is my image in the posts folder
-![](imported_images_from_wp/my_image.jpg)
+![](my_image.jpg)
 
 ## and here is on from under the uploads folder
 ![](imported_images_from_wp/2018/01/img_5a5748a873172.png))
