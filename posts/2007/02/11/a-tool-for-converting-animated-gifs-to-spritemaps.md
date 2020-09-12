@@ -26,12 +26,12 @@ I’m having a lot of fun playing around with the XNA development kit. One day I
 
 From this:
 
-![](http://1006942498667707091-a-1802744773732722657-s-sites.googlegroups.com/site/stevedunns/TestImage2.gif?attachauth=ANoY7crAPox1-gfdl8n5YTrpiuspOYKA8vYDRwytIDkAppW-d4UN7Dt3JSmEPQYtivw6-cNfkbMTfW7qjUoLFlrV_-l7JDcRX3cezrS1_epq5X2pnefaYOych9BAyhKplfW_PPhwIlxWXAxP4hjNfi6PVqOCA574xHluTp0dzTUr7YfiVZpixvRkEUdji0TRW8NguYDxcycK&attredirects=0)
+![](https://1006942498667707091-a-1802744773732722657-s-sites.googlegroups.com/site/stevedunns/TestImage2.gif?attachauth=ANoY7crAPox1-gfdl8n5YTrpiuspOYKA8vYDRwytIDkAppW-d4UN7Dt3JSmEPQYtivw6-cNfkbMTfW7qjUoLFlrV_-l7JDcRX3cezrS1_epq5X2pnefaYOych9BAyhKplfW_PPhwIlxWXAxP4hjNfi6PVqOCA574xHluTp0dzTUr7YfiVZpixvRkEUdji0TRW8NguYDxcycK&attredirects=0)
 
 … to this:
 
-![](http://sites.google.com/site/stevedunns/prisoner-full.jpg)
+![](https://sites.google.com/site/stevedunns/prisoner-full.jpg)
 
 I couldn’t find a tool forthis (although I’m sure they exist), so I did my own and uploaded it to my [tools page](http://dunnhq.com/tools "Steve Dunn's Tools")
 
-![](http://sites.google.com/site/stevedunns/GifToSpriteMapShot-full.jpg)
+![](https://sites.google.com/site/stevedunns/GifToSpriteMapShot-full.jpg)
