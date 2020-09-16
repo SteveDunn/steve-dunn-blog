@@ -21,7 +21,7 @@ dsq_thread_id:
 ---
 Mine were until I discovered new COMMON SENSE!<span class="st">®</span>
 
-![Image result for common sense](https://www.rootreport.com/wp-content/uploads/2016/09/common-sense-questions.jpg)
+![Image result for common sense](https://www.rootreport.com/img/imported_from_wp/2016/09/common-sense-questions.jpg)
 
 *TL;DR: I did something stupid and realised my mistake – what follows is mainly for future reference and for those that are making the same mistake.*
 

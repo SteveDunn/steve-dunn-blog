@@ -34,11 +34,11 @@ Most of the changes in the new version are under-the-hood. The biggest change ha
 
 ##### The original tool before being re-written:
 
-[![gleed-original](/img/imported_from_wp/2012/01/gleed-original_thumb.jpg "gleed-original")](/wp-content/uploads/2012/01/gleed-original_thumb.jpg)
+[![gleed-original](/img/imported_from_wp/2012/01/gleed-original_thumb.jpg "gleed-original")](/img/imported_from_wp/2012/01/gleed-original_thumb.jpg)
 
 ##### and here’s the new version:
 
-##### [![new-annotated](/img/imported_from_wp/2012/01/new-annotated_thumb.png "new-annotated")](/wp-content/uploads/2012/01/new-annotated_thumb.png)
+##### [![new-annotated](/img/imported_from_wp/2012/01/new-annotated_thumb.png "new-annotated")](/img/imported_from_wp/2012/01/new-annotated_thumb.png)
 
 The main reason for rewriting the tool was that I wanted to add more features to it but found that it wasn’t easy. It wasn’t easy because it was originally written to just handle the basics needed for creating and editing levels.
 

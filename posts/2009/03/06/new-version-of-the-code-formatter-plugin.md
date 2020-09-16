@@ -51,7 +51,7 @@ Here’s some output from ActiPro as text:
 
 </div>Here it is again as a bitmap:
 
-[![image](/img/imported_from_wp/2009/03/image_thumb-5B3-5D.png "image")](/wp-content/uploads/2009/03/image_thumb-5B3-5D.png)
+[![image](/img/imported_from_wp/2009/03/image_thumb-5B3-5D.png "image")](/img/imported_from_wp/2009/03/image_thumb-5B3-5D.png)
 
 and here it is using SyntaxHighlighter 2.0
 

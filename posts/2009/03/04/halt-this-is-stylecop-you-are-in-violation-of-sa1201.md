@@ -42,13 +42,13 @@ Doing all this by hand is tedious, but as with most things, [ReSharper](http://w
 
 R# has a couple of features that, when combined, will mean you are fully SA1201 compliant (and, quite possibly well within the [20 seconds compliance window](http://www.entertonement.com/clips/39146/You-have-20-seconds-to-comply)!) Firstly, there is a feature called Code Cleanup:
 
-[![sshot-2](/img/imported_from_wp/2009/03/sshot-2_thumb-5B3-5D.png "sshot-2")](/wp-content/uploads/2009/03/sshot-2_thumb-5B3-5D.png)
+[![sshot-2](/img/imported_from_wp/2009/03/sshot-2_thumb-5B3-5D.png "sshot-2")](/img/imported_from_wp/2009/03/sshot-2_thumb-5B3-5D.png)
 
 You can get R# to do various things during code clean-up. One of them is Reorder Type Members. R# does a decent job of moving stuff around by default, but it’s not perfect and doesn’t stop all warnings about SA1201. Thankfully, Reorder Type Members is configurable. The interface is straight XML in the R# Options screen. It’d be nice to have a GUI over it, but as yet (in R# 4.1 and [4.5](http://www.jetbrains.net/confluence/display/ReSharper/ReSharper+4.5+Nightly+Builds)), there isn’t one. Thankfully, you can’t bugger things up too much as the XML is validated against an XSD before it’s saved.
 
 I was going through a legacy project recently and wanted a way to automatically reorder things, so I modified the R# XML configuration. To get your environment set-up, [download the new XML configuration](https://sites.google.com/site/stevedunns/ReSharperReorderTypeMembersConfigura.xml), go to ReSharper/Options and under languages/C# there an entry named **Type Members Layout**.
 
-[![sshot-3](/img/imported_from_wp/2009/03/sshot-3_thumb-5B3-5D.png "sshot-3")](/wp-content/uploads/2009/03/sshot-3_thumb-5B3-5D.png)
+[![sshot-3](/img/imported_from_wp/2009/03/sshot-3_thumb-5B3-5D.png "sshot-3")](/img/imported_from_wp/2009/03/sshot-3_thumb-5B3-5D.png)
 
 Deselect *Use Default Patterns* check-box and past in the new XML and click OK.
 

@@ -32,7 +32,7 @@ dsq_thread_id:
 > - *See the websites that served as sources for the information in your Square.*
 > - *Save and share Squares with others.”*
 
- [![mk](/img/imported_from_wp/2009/06/mk_thumb-5B3-5D.jpg "mk")](/wp-content/uploads/2009/06/mk_thumb-5B3-5D.jpg)
+ [![mk](/img/imported_from_wp/2009/06/mk_thumb-5B3-5D.jpg "mk")](/img/imported_from_wp/2009/06/mk_thumb-5B3-5D.jpg)
 
 There’s some interesting results. I searched for [‘programming languages’](http://www.google.com/squared/search?q=programming+languages#).
 
@@ -40,4 +40,4 @@ It displays a list of languages, a picture of the language, a description, and w
 
 I was very surprised to see the **Miranda** language (apparently influenced by Haskell). Try it yourself: scroll down to Miranda. I must take a closer look at this one!
 
-**[![limbo](/img/imported_from_wp/2009/06/limbo_thumb-5B1-5D.jpg "limbo")](/wp-content/uploads/2009/06/limbo_thumb-5B1-5D.jpg)** Another one that might get you excited is **Limbo**. Scroll down and take a look (but be careful if you’re at work!!). Apparently influenced from Stackless Python. I’d say more like alcohol!
+**[![limbo](/img/imported_from_wp/2009/06/limbo_thumb-5B1-5D.jpg "limbo")](/img/imported_from_wp/2009/06/limbo_thumb-5B1-5D.jpg)** Another one that might get you excited is **Limbo**. Scroll down and take a look (but be careful if you’re at work!!). Apparently influenced from Stackless Python. I’d say more like alcohol!
