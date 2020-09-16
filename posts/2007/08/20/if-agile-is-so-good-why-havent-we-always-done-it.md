@@ -1,5 +1,5 @@
 ---
-title: 'If Agile is so good, why haven't we always done it?'
+title: 'If Agile is so good, why haven&#8217;t we always done it?'
 date: '2007-08-20T17:25:00+00:00'
 status: publish
 
