@@ -1,5 +1,5 @@
 ---
-title: 'I Hate ClearCase Part II - When a text file isn&#8217;t a text file!'
+title: "I Hate ClearCase Part II - When a text file isn't a text file!"
 date: '2006-11-21T11:53:00+00:00'
 status: publish
 
