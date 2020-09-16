@@ -1,5 +1,5 @@
 ---
-title: 'FAJAX &#8211; Fake AJAX!'
+title: 'FAJAX - Fake AJAX!'
 date: '2006-11-30T12:09:00+00:00'
 status: publish
 

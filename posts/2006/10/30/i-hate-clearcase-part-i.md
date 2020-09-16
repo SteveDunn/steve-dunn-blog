@@ -1,5 +1,5 @@
 ---
-title: 'I Hate ClearCase &#8211; Part I'
+title: 'I Hate ClearCase - Part I'
 date: '2006-10-30T14:18:00+00:00'
 status: publish
 

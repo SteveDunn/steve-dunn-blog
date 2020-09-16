@@ -1,5 +1,5 @@
 ---
-title: 'BackgroundWorker &#8211; automating this handy class'
+title: 'BackgroundWorker - automating this handy class'
 date: '2006-10-19T07:39:00+00:00'
 status: publish
 
