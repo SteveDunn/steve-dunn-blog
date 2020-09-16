@@ -1,5 +1,5 @@
 ---
-title: 'Problems with CSS and themes when using ASP.NET Forms Authentication'
+title: Problems with CSS and themes when using ASP.NET Forms Authentication
 date: '2009-10-17T20:25:00+00:00'
 status: publish
 

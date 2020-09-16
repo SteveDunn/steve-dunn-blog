@@ -1,5 +1,5 @@
 ---
-title: 'A tool to switch project files between using Visual Studio 2008 and 2010'
+title: A tool to switch project files between using Visual Studio 2008 and 2010
 date: '2010-02-25T22:02:00+00:00'
 status: publish
 

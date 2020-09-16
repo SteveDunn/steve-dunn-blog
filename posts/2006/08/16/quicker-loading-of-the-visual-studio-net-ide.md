@@ -1,5 +1,5 @@
 ---
-title: 'Quicker loading of the Visual Studio .NET IDE'
+title: Quicker loading of the Visual Studio .NET IDE
 date: '2006-08-16T19:51:00+00:00'
 status: publish
 

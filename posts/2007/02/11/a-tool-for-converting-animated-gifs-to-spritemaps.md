@@ -1,5 +1,5 @@
 ---
-title: 'A tool for converting animated GIFS to spritemaps'
+title: A tool for converting animated GIFS to spritemaps
 date: '2007-02-11T19:29:00+00:00'
 status: publish
 

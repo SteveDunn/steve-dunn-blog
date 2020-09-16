@@ -1,5 +1,5 @@
 ---
-title: 'C# 4 - Default Parameters'
+title: C# 4 - Default Parameters
 date: '2008-11-20T13:04:00+00:00'
 status: publish
 

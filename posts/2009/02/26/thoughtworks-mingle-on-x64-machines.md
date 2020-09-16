@@ -1,5 +1,5 @@
 ---
-title: 'ThoughtWork’s Mingle on X64 machines'
+title: ThoughtWork’s Mingle on X64 machines
 date: '2009-02-26T11:20:00+00:00'
 status: publish
 

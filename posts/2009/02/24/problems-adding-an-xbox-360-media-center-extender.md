@@ -1,5 +1,5 @@
 ---
-title: 'Problems adding an XBox 360 Media Center Extender'
+title: Problems adding an XBox 360 Media Center Extender
 date: '2009-02-24T22:53:00+00:00'
 status: publish
 

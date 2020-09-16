@@ -1,5 +1,5 @@
 ---
-title: 'Updated: Tree Trim'
+title: Updated: Tree Trim
 date: '2009-05-25T13:45:00+00:00'
 status: publish
 

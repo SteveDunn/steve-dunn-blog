@@ -1,5 +1,5 @@
 ---
-title: 'Converting System.Drawing.Color to HTML color (and vice-versa)'
+title: Converting System.Drawing.Color to HTML color (and vice-versa)
 date: '2006-08-18T22:35:00+00:00'
 status: publish
 

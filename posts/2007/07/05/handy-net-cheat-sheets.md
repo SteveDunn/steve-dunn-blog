@@ -1,5 +1,5 @@
 ---
-title: 'Handy .NET Cheat Sheets'
+title: Handy .NET Cheat Sheets
 date: '2007-07-05T11:15:00+00:00'
 status: publish
 

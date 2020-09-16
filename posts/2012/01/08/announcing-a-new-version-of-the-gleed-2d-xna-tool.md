@@ -1,5 +1,5 @@
 ---
-title: 'Announcing a new version of the Gleed 2D XNA tool'
+title: Announcing a new version of the Gleed 2D XNA tool
 date: '2012-01-08T20:35:00+00:00'
 status: publish
 

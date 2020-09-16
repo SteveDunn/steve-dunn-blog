@@ -1,5 +1,5 @@
 ---
-title: 'Framework Design Guidelines'
+title: Framework Design Guidelines
 date: '2007-04-02T15:17:00+00:00'
 status: publish
 

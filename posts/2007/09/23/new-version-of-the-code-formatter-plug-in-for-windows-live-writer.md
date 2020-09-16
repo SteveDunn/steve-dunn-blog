@@ -1,5 +1,5 @@
 ---
-title: 'New version of the Code Formatter Plug-in for Windows Live Writer.'
+title: New version of the Code Formatter Plug-in for Windows Live Writer.
 date: '2007-09-23T11:14:00+00:00'
 status: publish
 

@@ -1,5 +1,5 @@
 ---
-title: 'Adding folders to the Class View in Visual Studio'
+title: Adding folders to the Class View in Visual Studio
 date: '2008-11-19T12:16:00+00:00'
 status: publish
 

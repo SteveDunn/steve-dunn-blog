@@ -1,5 +1,5 @@
 ---
-title: 'Reshaper Live Templates for validating arguments'
+title: Reshaper Live Templates for validating arguments
 date: '2006-08-16T20:15:00+00:00'
 status: publish
 

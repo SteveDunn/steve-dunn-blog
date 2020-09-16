@@ -1,5 +1,5 @@
 ---
-title: 'A fast way of converting C# enums to strings–and back again.'
+title: A fast way of converting C# enums to strings–and back again.
 date: '2011-08-17T22:45:00+00:00'
 status: publish
 

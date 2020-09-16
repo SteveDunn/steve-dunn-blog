@@ -1,5 +1,5 @@
 ---
-title: 'Excluding Items From Code Coverage'
+title: Excluding Items From Code Coverage
 date: '2008-06-27T20:20:00+00:00'
 status: publish
 

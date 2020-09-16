@@ -1,5 +1,5 @@
 ---
-title: 'Tool update: Visual Studio Orphaned Items'
+title: Tool update: Visual Studio Orphaned Items
 date: '2009-02-23T12:21:00+00:00'
 status: publish
 

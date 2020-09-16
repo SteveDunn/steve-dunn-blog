@@ -1,5 +1,5 @@
 ---
-title: 'In the name of science'
+title: In the name of science
 date: '2006-11-30T13:10:00+00:00'
 status: publish
 

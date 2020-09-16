@@ -1,5 +1,5 @@
 ---
-title: 'Framework design lecture avaliable for download'
+title: Framework design lecture avaliable for download
 date: '2007-06-19T11:58:00+00:00'
 status: publish
 

@@ -1,5 +1,5 @@
 ---
-title: 'Google Squared and sexy languages!'
+title: Google Squared and sexy languages!
 date: '2009-06-04T07:24:00+00:00'
 status: publish
 

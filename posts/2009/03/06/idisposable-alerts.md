@@ -1,5 +1,5 @@
 ---
-title: 'IDisposable alerts'
+title: IDisposable alerts
 date: '2009-03-06T21:10:00+00:00'
 status: publish
 

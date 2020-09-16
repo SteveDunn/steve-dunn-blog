@@ -1,5 +1,5 @@
 ---
-title: 'Quicky StringBuilder Tip'
+title: Quicky StringBuilder Tip
 date: '2006-08-16T19:53:00+00:00'
 status: publish
 

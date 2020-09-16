@@ -1,5 +1,5 @@
 ---
-title: 'Visual Studio Build Tip'
+title: Visual Studio Build Tip
 date: '2006-10-18T08:18:00+00:00'
 status: publish
 

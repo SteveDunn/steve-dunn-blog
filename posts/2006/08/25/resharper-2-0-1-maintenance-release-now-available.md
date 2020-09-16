@@ -1,5 +1,5 @@
 ---
-title: 'ReSharper 2.0.1 Maintenance Release Now Available'
+title: ReSharper 2.0.1 Maintenance Release Now Available
 date: '2006-08-25T23:15:00+00:00'
 status: publish
 

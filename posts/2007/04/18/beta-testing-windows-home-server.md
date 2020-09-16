@@ -1,5 +1,5 @@
 ---
-title: 'Beta Testing Windows Home Server'
+title: Beta Testing Windows Home Server
 date: '2007-04-18T21:15:00+00:00'
 status: publish
 

@@ -1,5 +1,5 @@
 ---
-title: 'What to expose in a framework'
+title: What to expose in a framework
 date: '2006-10-23T16:27:00+00:00'
 status: publish
 

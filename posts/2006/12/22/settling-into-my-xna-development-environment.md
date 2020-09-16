@@ -1,5 +1,5 @@
 ---
-title: 'Settling into my XNA Development Environment'
+title: Settling into my XNA Development Environment
 date: '2006-12-22T12:21:00+00:00'
 status: publish
 

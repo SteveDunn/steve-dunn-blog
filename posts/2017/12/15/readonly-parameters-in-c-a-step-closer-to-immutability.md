@@ -1,5 +1,5 @@
 ---
-title: 'Readonly parameters in C# - a step closer to immutability'
+title: Readonly parameters in C# - a step closer to immutability
 date: '2017-12-15T22:14:00+00:00'
 status: publish
 

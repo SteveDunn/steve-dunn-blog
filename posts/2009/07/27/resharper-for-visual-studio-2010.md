@@ -1,5 +1,5 @@
 ---
-title: 'ReSharper for Visual Studio 2010'
+title: ReSharper for Visual Studio 2010
 date: '2009-07-27T20:48:00+00:00'
 status: publish
 

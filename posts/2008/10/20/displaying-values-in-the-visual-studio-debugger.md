@@ -1,5 +1,5 @@
 ---
-title: 'Displaying values in the Visual Studio Debugger'
+title: Displaying values in the Visual Studio Debugger
 date: '2008-10-20T13:51:00+00:00'
 status: publish
 

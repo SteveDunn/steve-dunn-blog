@@ -1,5 +1,5 @@
 ---
-title: 'Code Formatter Plugin now on Codeplex'
+title: Code Formatter Plugin now on Codeplex
 date: '2006-08-23T22:34:00+00:00'
 status: publish
 

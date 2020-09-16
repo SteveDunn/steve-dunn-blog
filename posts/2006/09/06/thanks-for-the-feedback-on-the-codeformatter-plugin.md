@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for the feedback on the CodeFormatter plugin'
+title: Thanks for the feedback on the CodeFormatter plugin
 date: '2006-09-06T20:31:00+00:00'
 status: publish
 

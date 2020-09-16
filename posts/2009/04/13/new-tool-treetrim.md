@@ -1,5 +1,5 @@
 ---
-title: 'New tool: TreeTrim'
+title: New tool: TreeTrim
 date: '2009-04-13T12:45:00+00:00'
 status: publish
 

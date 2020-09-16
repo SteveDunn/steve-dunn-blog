@@ -1,5 +1,5 @@
 ---
-title: 'ReSharper 4.5 Beta'
+title: ReSharper 4.5 Beta
 date: '2009-03-13T22:35:00+00:00'
 status: publish
 

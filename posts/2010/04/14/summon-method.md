@@ -1,5 +1,5 @@
 ---
-title: 'Summon Method'
+title: Summon Method
 date: '2010-04-14T12:54:00+00:00'
 status: publish
 

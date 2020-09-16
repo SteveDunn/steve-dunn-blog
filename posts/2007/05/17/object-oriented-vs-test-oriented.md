@@ -1,5 +1,5 @@
 ---
-title: 'Object Oriented vs Test Oriented'
+title: Object Oriented vs Test Oriented
 date: '2007-05-17T15:25:00+00:00'
 status: publish
 

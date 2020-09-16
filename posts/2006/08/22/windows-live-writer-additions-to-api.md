@@ -1,5 +1,5 @@
 ---
-title: 'Windows Live Writer - Additions to API'
+title: Windows Live Writer - Additions to API
 date: '2006-08-22T22:01:00+00:00'
 status: publish
 

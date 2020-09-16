@@ -1,5 +1,5 @@
 ---
-title: 'ReSharper Live Templates for validating parameters of public C# methods.'
+title: ReSharper Live Templates for validating parameters of public C# methods.
 date: '2006-10-04T07:21:00+00:00'
 status: publish
 

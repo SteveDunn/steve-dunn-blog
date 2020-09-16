@@ -1,5 +1,5 @@
 ---
-title: 'New version of the Code Formatter Plugin'
+title: New version of the Code Formatter Plugin
 date: '2009-03-06T08:21:00+00:00'
 status: publish
 

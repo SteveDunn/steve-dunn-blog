@@ -1,5 +1,5 @@
 ---
-title: 'Hiding your privates from StyleCop'
+title: Hiding your privates from StyleCop
 date: '2009-03-03T12:55:00+00:00'
 status: publish
 

@@ -1,5 +1,5 @@
 ---
-title: 'Halt, this is StyleCop.  You are in violation of SA1201!'
+title: Halt, this is StyleCop.  You are in violation of SA1201!
 date: '2009-03-04T17:19:00+00:00'
 status: publish
 

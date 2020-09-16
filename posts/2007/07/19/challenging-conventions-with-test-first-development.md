@@ -1,5 +1,5 @@
 ---
-title: 'Challenging Conventions with Test First Development'
+title: Challenging Conventions with Test First Development
 date: '2007-07-19T11:13:00+00:00'
 status: publish
 

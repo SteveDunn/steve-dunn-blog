@@ -1,5 +1,5 @@
 ---
-title: '.NET Memory usage - A restaurant analogy'
+title: .NET Memory usage - A restaurant analogy
 date: '2006-09-06T20:46:00+00:00'
 status: publish
 

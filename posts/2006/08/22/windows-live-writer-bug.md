@@ -1,5 +1,5 @@
 ---
-title: 'Windows Live Writer - Bug'
+title: Windows Live Writer - Bug
 date: '2006-08-22T22:07:00+00:00'
 status: publish
 

@@ -1,5 +1,5 @@
 ---
-title: 'Visual Studio Orphaned Project Items Finder'
+title: Visual Studio Orphaned Project Items Finder
 date: '2006-10-21T22:32:00+00:00'
 status: publish
 

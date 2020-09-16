@@ -1,5 +1,5 @@
 ---
-title: 'Handy use of extension method on a bool'
+title: Handy use of extension method on a bool
 date: '2011-05-11T20:41:00+00:00'
 status: publish
 

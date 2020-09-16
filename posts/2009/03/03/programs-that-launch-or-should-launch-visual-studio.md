@@ -1,5 +1,5 @@
 ---
-title: 'Programs that launch (or should launch) Visual Studio'
+title: Programs that launch (or should launch) Visual Studio
 date: '2009-03-03T12:34:00+00:00'
 status: publish
 
