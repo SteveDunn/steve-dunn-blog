@@ -1,5 +1,5 @@
 ---
-title: Getting 'code://' hyperlinks into FlexWiki
+title: "Getting 'code://' hyperlinks into FlexWiki"
 date: '2007-07-04T18:02:00+00:00'
 status: publish
 
