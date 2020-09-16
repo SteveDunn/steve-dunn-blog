@@ -1,5 +1,5 @@
 ---
-title: 'Are your UWP Win2D offscreen bitmaps dull&#8230;?'
+title: 'Are your UWP Win2D offscreen bitmaps dull…?'
 date: '2018-01-11T12:38:20+00:00'
 status: publish
 author: stevedunn
