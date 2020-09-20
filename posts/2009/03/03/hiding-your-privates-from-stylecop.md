@@ -23,7 +23,7 @@ blogger_internal:
 dsq_thread_id:
     - '7847230167'
 ---
-[I like StyleCop](http://dunnblog.azurewebsites.net/index.php/2009/02/21/stylecop/) but I didn’t like the fact it produced warnings on private fields and methods. I was wrong. Not wrong in that I didn’t like warnings on privates, but wrong that I thought there was no way to tell it to stop it.
+[I like StyleCop](https://blog.dunnhq.com/posts/2009/02/21/stylecop/) but I didn’t like the fact it produced warnings on private fields and methods. I was wrong. Not wrong in that I didn’t like warnings on privates, but wrong that I thought there was no way to tell it to stop it.
 
 Apparently there is. [Jason Allor](http://blogs.msdn.com/sourceanalysis/) kindly left a comment saying that it can be configured through the StyleCop settings dialog in Visual Studio.
 

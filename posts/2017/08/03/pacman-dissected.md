@@ -18,7 +18,7 @@ dsq_thread_id:
 ---
 <div class="dropshadowboxes-container dropshadowboxes-center " style="width:100%;"><div class="dropshadowboxes-drop-shadow dropshadowboxes-rounded-corners dropshadowboxes-inside-and-outside-shadow dropshadowboxes-lifted-both dropshadowboxes-effect-default" style="width:auto; border: 1px solid #dddddd; height:; background-color:#ffffff;    "> “If Pac-Man had affected us as kids, we’d all be running around in dark rooms, munching pills and listening to repetitive electronic music” </div> </div>*Markus Brigstocke*
 
-In my previous post, I wrote about [learning TypeScript by writing a game](http://blog.dunnhq.com/index.php/2017/07/13/learning-typescript-by-writing-a-game/).
+In my previous post, I wrote about [learning TypeScript by writing a game](https://blog.dunnhq.com/posts/2017/07/13/learning-typescript-by-writing-a-game/).
 
 The game I chose was Pacman ([play it here](http://pacman.backroomsoftware.com/)).
 

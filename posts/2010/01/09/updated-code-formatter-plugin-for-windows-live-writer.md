@@ -79,7 +79,7 @@ To use the SyntaxHighlighter engine, ensure your blog is correctly set-up. For t
 
 This changes the HTML output to that expected by theSyntaxHighlighter Evolved plugin for WordPress. It’s very similar to using the SyntaxHighlighter engine, but you don’t need to worry about setting up your blog with the correct scripts. *Do be aware though, that for the Preview window to work correctly, you still need to set-up this plugin so that it knows where the SyntaxHighlighter brushes and scripts are (the default settings work right now, but if Alex changes the location in the future, you’ll need to update the settings).*
 
-To see examples of the output, please [see this blog post](http://dunnblog.azurewebsites.net/index.php/2009/03/06/new-version-of-the-code-formatter-plugin/).
+To see examples of the output, please [see this blog post](https://blog.dunnhq.com/posts/2009/03/06/new-version-of-the-code-formatter-plugin/).
 
 Version 2.0.0.3 can be [downloaded here](http://sites.google.com/a/dunnhq.com/steve/CodeFormatterPlugin2.0.0.3.zip?attredirects=0). To use it, extract the binaries to **Program FilesWindows LiveWriterPlugins** and run WLW. If you’re using a version of WLW prior to Beta 3, then you need to remove it and update! (Alternatively, change the directory to Program FilesWindows Live WriterPlugins)
 

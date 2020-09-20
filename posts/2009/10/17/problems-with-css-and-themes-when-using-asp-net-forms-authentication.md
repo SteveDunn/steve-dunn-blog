@@ -22,4 +22,4 @@ blogger_internal:
 dsq_thread_id:
     - '6448476865'
 ---
-A while back, I wrote a [blog post](http://dunnblog.azurewebsites.net/index.php/2006/10/20/problems-with-forms-authentication-and-asp-net-themes/) about how turning on Forms Authentication caused problems with stylesheets and Themes. A lot of people found this post useful but had trouble finding it. One reader suggested I change the title to get more hits. So, I did, and this is it.
+A while back, I wrote a [blog post](https://blog.dunnhq.com/posts/2006/10/20/problems-with-forms-authentication-and-asp-net-themes/) about how turning on Forms Authentication caused problems with stylesheets and Themes. A lot of people found this post useful but had trouble finding it. One reader suggested I change the title to get more hits. So, I did, and this is it.

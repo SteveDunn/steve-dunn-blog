@@ -23,7 +23,7 @@ Want to learn a new programming language? Tired of the usual Line-of-Business tu
 
 That’s what I did recently when I wanted to learn TypeScript. I decided to write a [web-based version of PacMan.](http://pacman.backroomsoftware.com/) This post describes a bit about my goals. There’s nothing technical here; I may, at some point, describe the internals of the game and share the code.
 
-**\*\*Update August 2017 – [source code published and internals described](http://blog.dunnhq.com/index.php/2017/08/03/pacman-dissected/)\*\***
+**\*\*Update August 2017 – [source code published and internals described](https://blog.dunnhq.com/posts/2017/08/03/pacman-dissected/)\*\***
 
 My goals were to learn TypeScript and end up with a game that looked and played similar the original.
 

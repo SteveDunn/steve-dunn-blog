@@ -27,7 +27,7 @@ Mine were until I discovered new COMMON SENSE!<span class="st">®</span>
 
 [Win2D](https://github.com/Microsoft/Win2D) is great! So is the concept of [UWP](https://docs.microsoft.com/en-us/windows/uwp/get-started/whats-a-uwp) and the Windows Store. It means you can write a game for the Windows Store (for Windows 10), and with some minimal work, it can run on the XBox One (since that’s based on Windows 10 too).
 
-So, I set about converting Pac-Man that I’d [written in TypeScript](http://blog.dunnhq.com/index.php/2017/08/03/pacman-dissected/) ([*play it here*](http://pacman.backroomsoftware.com)), into C# and publishing it on the Windows Store.
+So, I set about converting Pac-Man that I’d [written in TypeScript](https://blog.dunnhq.com/posts/2017/08/03/pacman-dissected/) ([*play it here*](http://pacman.backroomsoftware.com)), into C# and publishing it on the Windows Store.
 
 Here’s the opening screen – note the text looks naff and the sprites have lost their *intentionally pixelly look*:
 
